@@ -1,0 +1,7 @@
+#Sun Jan 15 06:24:13 PST 2023
+resourcepackReflectionsEnabled=true
+pomEnabled=true
+pomSamples=128
+motionblurToggle=false
+slopeNormalCalculation=true
+vertexAttributeFix=true

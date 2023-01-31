@@ -1,0 +1,11 @@
+name = "Nostalgia Shader"
+filename = "Nostalgia_v4.0a.zip"
+side = "client"
+
+[download]
+url = "https://github.com/rre36/NostalgiaShader_Mirror/releases/download/v4.0a/Nostalgia_v4.0a.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4bbe27acb71fb62d0009de2b0c4ce9566223dd93f66ff3b591365ff8150103a6"

@@ -1,0 +1,13 @@
+name = "Pling"
+filename = "pling-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fd5ec3839172973f2aea599a8aaee5b64704c8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4278592
+project-id = 365521

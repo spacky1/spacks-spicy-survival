@@ -1,0 +1,3 @@
+#Sun Jan 15 06:38:38 PST 2023
+resourcepackReflectionsEnabled=true
+reflectionsEnabled=true

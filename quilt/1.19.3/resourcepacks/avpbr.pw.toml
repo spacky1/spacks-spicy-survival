@@ -1,0 +1,13 @@
+name = "Another vanilla PBR"
+filename = "§5AVPBR 1-8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab4b96c5d6932506db84862f4e3cebe1f50b124f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4023980
+project-id = 403314

@@ -1,0 +1,11 @@
+name = "DrDestens MinecraftShaders"
+filename = "DrDestens.MinecraftShaders.v1.5.7.zip"
+side = "client"
+
+[download]
+url = "https://github.com/DrDesten/DrDestens_McShader/releases/download/v1.5.7/DrDestens.MinecraftShaders.v1.5.7.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a83fe7756a4e34eb53ac7678e9514e7bb81ac887b1b66faa5159a9c1b2e64765"

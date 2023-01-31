@@ -1,0 +1,13 @@
+name = "Default Dark Mode"
+filename = "Default-Dark-Mode-1.19.3-v1.4.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ece027eaa9199c169dc6e028163b2680d08a9dd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4284266
+project-id = 349116

@@ -1,0 +1,9 @@
+#Fri Jan 20 17:59:45 PST 2023
+ResolutionScale=0.75
+pomEnabled=true
+pomSamples=128
+motionblurToggle=false
+ReflectionRoughnessCutoff=0.2
+slopeNormalCalculation=true
+RoughReflections=true
+vertexAttributeFix=true

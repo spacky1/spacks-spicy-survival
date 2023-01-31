@@ -1,0 +1,4 @@
+#Sun Jan 15 06:36:33 PST 2023
+normalmapEnabled=true
+motionblurToggle=false
+ambientOcclusionToggle=true

@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Fabric-1.19.3-2.2.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "497825b9366176ab0b9a0ad323859647b18ed661"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4338736
+project-id = 243190
