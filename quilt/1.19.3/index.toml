@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b379855a3b75007c6548fc27dc2f6ae59e054d09dc77ed3f41aff79f537cc9cc"
+hash = "00bbc94e36588939e7080380a4508de0a7dbbff9899256eea7476ed5ff4b3352"
 metafile = true
 
 [[files]]
@@ -234,11 +234,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "4ee8073a39773e2eb3a51219bfd14f7cee648e855aa7f30b05adb184754d3169"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "631b4ee83e9ac2d8a093802784f71815bb5437fda4fd36b37eba8f7f0fe38bff"
 metafile = true
 
 [[files]]
@@ -293,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "57996c2240ce11daa289c19701a7e5232a3445386ec93e350211499ad4aa873e"
+hash = "9ea670604ad1e591b39d327c77920dd0fffbe8456f6d05660aaeca7ff4af4746"
 metafile = true
 
 [[files]]
@@ -373,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -408,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "770407286a55e45093a89e1f0b5a4ccfa7b39992ce7fa0a21fc813180488f625"
+hash = "141d7b9b7aacccafe753464bc0171b33e54b778fd40cf458ac2b3ac051329e8d"
 metafile = true
 
 [[files]]
@@ -433,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "1ab5733b357d9c788c357802d9052d952699dd905aeed81b41370169fab70c11"
+hash = "9b788ba28337774ec91d15707a8c6ed782d71a89a9b54919e95cb45eed6fc5ff"
 metafile = true
 
 [[files]]
@@ -458,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7d3727ee323a1e3e6a41719db11e343e0658cc149274b9d4426acc9ae21b1363"
+hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
 
 [[files]]
@@ -628,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "337bbaeef7c313f3596cbaa38a81a89eff20cf5c2aac16daba90d56c065c437e"
+hash = "bbd39d77658cf8c78bc1b6b8ca4350d090954b41767ce64517a1e40095a5443f"
 metafile = true
 
 [[files]]
@@ -648,12 +643,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c253e367bc570cbdcad5cd5ee759a918548bb2e9c641b8a460a73bc637d79b74"
+hash = "c8fd86f94fb1bc7def8fc00b4d0722992356c85ad574ce60f1c2c123750c2785"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cff6e118a7d2649ab479bbcf328d463349cfc8dc4bac3f5025395f34c2b505bb"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
 metafile = true
 
 [[files]]
