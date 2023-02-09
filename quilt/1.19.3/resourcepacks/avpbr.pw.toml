@@ -1,6 +1,6 @@
 name = "Another vanilla PBR"
 filename = "§5AVPBR 1-8.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

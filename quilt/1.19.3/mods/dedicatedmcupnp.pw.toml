@@ -1,0 +1,13 @@
+name = "UPNP for dedicated servers"
+filename = "dedicatedmcupnp-1.2.1-mc1.18.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yq9V2lXq/versions/uMGw5CWt/dedicatedmcupnp-1.2.1-mc1.18.jar"
+hash-format = "sha1"
+hash = "0b9c04a9652e19c86416d746bfd97ea69aee84cf"
+
+[update]
+[update.modrinth]
+mod-id = "Yq9V2lXq"
+version = "uMGw5CWt"
