@@ -1,0 +1,13 @@
+name = "squaremap"
+filename = "squaremap-fabric-mc1.19.3-1.1.9.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "c8e6d522666d63fd50e2c02ea779a73311a905bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4166309
+project-id = 579715
