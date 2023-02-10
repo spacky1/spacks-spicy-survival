@@ -10,7 +10,7 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/yosbr/config/clienttweaks.toml"
-hash = "1a284cdddd0df7f11855f295535d0700fe49e74ec06d5dcc2b2d4e840486df51"
+hash = "554bbf8b11185babedaafc5385cce36b520bd120b990955c1d0dc59e31a5d305"
 
 [[files]]
 file = "config/yosbr/config/craftpresence.json"
