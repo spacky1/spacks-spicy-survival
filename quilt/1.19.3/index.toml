@@ -677,6 +677,11 @@ hash = "79783f0aa5f175ec135ef1f6ef6b0d4a38cc1e17d334d6e7561ba87f94291dac"
 metafile = true
 
 [[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "c8fd86f94fb1bc7def8fc00b4d0722992356c85ad574ce60f1c2c123750c2785"
 metafile = true
