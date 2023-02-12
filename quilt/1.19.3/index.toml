@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "dbcee008ecbc2c7727e46edb7650ad8cc789c602e365422f195c252b3af5e0c9"
+hash = "188b1f6587b9bcdc3788ae404ad891e5c552b64d3397257cdeab43dd611232df"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/dedicatedmcupnp.pw.toml"
-hash = "8fe8e9576e941529e02a68dc41ba657246197b9da2233b3bc059537a121257a5"
+hash = "b64007fb968bca54b0e837b984bf2d55e9a76771eaabbdb1d9f882c4816d09fe"
 metafile = true
 
 [[files]]
@@ -533,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "83a212a71370bd6cc3133a44aed97da0d03492b525f4f0aff5e5a76922608b0b"
 metafile = true
 
 [[files]]
@@ -787,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "55818f400233b503b748dbc65a7fbdc9c843a56cee0f9515068fe0948212cbc1"
+hash = "ecf0c6a4e1ea923de5149d8fbceb63c2030d9d89385c08289483695d012f5568"
 metafile = true
 
 [[files]]
