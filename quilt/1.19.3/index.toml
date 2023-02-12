@@ -70,7 +70,11 @@ hash = "c62284a5197b99309d3fb7c454854710a05dfc24df102d59c899b9d5d57bfa9a"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "7108afb1b6f74538d1c89ecd9fefa0f4e00aa763feeaf7f00a79b96ce766df6b"
+hash = "ee1c6c894b50b8bc623a9f397b6aafb2a821c4564992cf69f2d81d7dc1053c41"
+
+[[files]]
+file = "config/yosbr/config/itemscroller.json"
+hash = "2455e2d6ea6b3a4d0dc2ff138f4630e46edf3ddd6d3d0209658e13992aa16878"
 
 [[files]]
 file = "config/yosbr/config/malilib.json"
@@ -122,7 +126,7 @@ hash = "6e30f03e38a053aae4515bbb288beef6805d09017bf43110adededec9395fb04"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "9c15b182134d9245502cbe7148e406408fa12035d20aed792b8c259ff94db4cf"
+hash = "4f6479683cae848120cf9ac116ee51e07abf400cf388c34549acf03c15e5e128"
 
 [[files]]
 file = "config/yosbr/config/shouldersurfing.toml"
@@ -134,7 +138,7 @@ hash = "76563394a07382a8cf114cde770613dea2dfdf74262fcafe0bec3a520358e81f"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "95b38a91579bdd71ace830cf60c98bc6c279a995c238173d4c60bc8711b30f78"
+hash = "3c39ca52ae692abb519cb39ba849ec6c6d51a69a50318db4189496bc5ac8ef35"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra.properties"
@@ -788,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "95add27f93324ef1b5a9309dd97abf026b81f36125c6eb3643b56156df6c378a"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "74d769b99382c6d6945d71ff59d610c2dc21aa8ba16f488c8f80ec33786d0dd6"
 metafile = true
 
 [[files]]
