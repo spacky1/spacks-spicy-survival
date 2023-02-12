@@ -36,8 +36,8 @@
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
-				"modifier": 2
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
 			},
 			"exportImageKeybind": {
 				"keyCode": "key.keyboard.f8",
@@ -49,7 +49,7 @@
 			}
 		},
 		// Declares whether REI is visible.
-		"overlayVisible": true,
+		"overlayVisible": false,
 		"cheatingStyle": "GRAB",
 		"motion": {
 			"favoritesAnimation": true
