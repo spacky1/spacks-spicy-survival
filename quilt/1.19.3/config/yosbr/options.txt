@@ -39,7 +39,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["minecraft/supporteatinganimation","programmer_art","vanilla","file/Default-Dark-Mode-1.19.3-v1.4.0.zip"]
+resourcePacks:["minecraft/supporteatinganimation","programmer_art","vanilla","file/Default-Dark-Mode-1.19.3-v1.4.0.zip","file/Spack\u0027s Dark Mode 1.19.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
