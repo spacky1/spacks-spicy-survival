@@ -153,12 +153,16 @@ file = "config/yosbr/config/tweakeroo.json"
 hash = "b05bf65d92ae597ef9f7a3692e65454111a9271c46a015b37bc333d0d9875843"
 
 [[files]]
+file = "config/yosbr/config/vivecraft-config.properties"
+hash = "bd9dd364619eab6c12da68176f1af9338be29ffdf04d53cb937232b5e120179a"
+
+[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "31c45e0d9b526f44f069d8d4d7c7cc58423ee0a4bbb7bb0d9539402c4fa2a6a8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b1e3ae734654af833c0294e1a64cdbcea2d4b22f9d79b3259161f407397317a5"
+hash = "7f2b383dd36e8c8c80ce0301d42c77750490ad1e58184664c8268b9273e6aacf"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Bliss_beta_1.15_(Chocapic13's_Shaders_edit).zip.txt"
@@ -311,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "621ca00937c28f7ec4aaf53d58f72317219776318693342773056dcb325b87b0"
+hash = "e858fbca6078746b3ee590387fa14567bfe949fedc05667956df3d9f795481ef"
 metafile = true
 
 [[files]]
@@ -421,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
+hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
 
 [[files]]
@@ -436,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "31e6caa20a856e7c70930ab46154e93ffe4c5f371bf520561ae90cd418d976b1"
+hash = "9892a0024b5f2aeb4dbb9b39f3ebc518c4661ba31b487dd332b879ba22bcc4fd"
 metafile = true
 
 [[files]]
@@ -476,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/highlight.pw.toml"
-hash = "2dd4a5155c3c0ebfb1c0c2fb50391b50e79a054dbd4b711f6c49f25a4f4bcccc"
+hash = "c6aab2bb68df4d784928ae39dd8620215773d384b12c2a3506bb4885ea82af4c"
 metafile = true
 
 [[files]]
@@ -491,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "00cc2f078fd90fa0afa69aa2f3d2e543b75a43cc6db4f207f87c0fd690a5b271"
+hash = "05bf4efb7aab56777e2f9d51b8113155749758de820d25d211813444f5469b5e"
 metafile = true
 
 [[files]]
@@ -596,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "f347fc9324a50777077797cdc46626da15aec98c8ac129544ef4608b26a59370"
+hash = "d8bb9cc6c51b8bae3dc185fce8563d50a7cfbef7a272f9948d0f7410e1900f3a"
 metafile = true
 
 [[files]]
@@ -621,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+hash = "c6932018158da544553f88b977bed1946f59d9c86685f2023b0a9ee196fc3087"
 metafile = true
 
 [[files]]
@@ -686,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "3451be7d31e029ff21bb01fe3a3f39e81060c5df7d079e33310d74d09254e82b"
+hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
 metafile = true
 
 [[files]]
@@ -706,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "607a572b261275eb0a90133208e8fbef990b886e91a417008726c7b6eafdba27"
+hash = "60751c23742c690a206d5010ecc15fb29a486fd043eada4ab08afa9a46b8046f"
 metafile = true
 
 [[files]]
@@ -825,6 +829,10 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Spack's Dark Mode 1.19.zip"
+hash = "96e71993441d987d8ed7d081bea956694bd6ae2e6f34992add950994394082b2"
+
+[[files]]
 file = "resourcepacks/Vanilla Normals Renewed.zip"
 hash = "85c6fdfe3d14189e2413237609dab80d0f3e60cc56ad329a38237dba46c43414"
 
@@ -843,8 +851,16 @@ file = "shaderpacks/Bliss_beta_1.15_(Chocapic13's_Shaders_edit).zip"
 hash = "90cf6bdd846d5e202194d305673ada5dfbc19860385ad0e345789ed5908fc629"
 
 [[files]]
-file = "shaderpacks/Photon.zip"
-hash = "ae8e57d7772e77cca3ec1578cd7268160832011fa6be071c710a8e50b8a52721"
+file = "shaderpacks/Photon (2-8-23).zip"
+hash = "d49ce4e2e4cd5faa9e9f1bbb72d664f79a3016952396659a17e30739843718b2"
+
+[[files]]
+file = "shaderpacks/Photon Rework (2-14-23).zip"
+hash = "9a34193a6bf77e7212e09f003feacb3deef60c7930a47a087b2ec9dc7d8cf174"
+
+[[files]]
+file = "shaderpacks/Spectrum (1-28-23).zip"
+hash = "85a1e1d9596fdf577c4405766792e1190ddf9dcb7ad79c89887c3910d1cc43a1"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
