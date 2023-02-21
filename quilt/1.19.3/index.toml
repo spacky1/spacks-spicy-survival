@@ -158,11 +158,11 @@ hash = "bd9dd364619eab6c12da68176f1af9338be29ffdf04d53cb937232b5e120179a"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "31c45e0d9b526f44f069d8d4d7c7cc58423ee0a4bbb7bb0d9539402c4fa2a6a8"
+hash = "1af71a17490cd586d44e5d799b85ad218ce1579cf39ad9797ea4c327108d3ebd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7f2b383dd36e8c8c80ce0301d42c77750490ad1e58184664c8268b9273e6aacf"
+hash = "a42aec7ba05f13af142269ce3d5a5fb7426d95fdd81eb77dd71f6d49f1fc44a4"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Bliss_beta_1.15_(Chocapic13's_Shaders_edit).zip.txt"
