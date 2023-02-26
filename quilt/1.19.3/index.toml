@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "6412f4f0591a2622344b5e99cce3229a448f2e20203a600f22df5db6eda55cde"
+hash = "74c50bffe7025e0fe6f371041f0d0d66ba9a3123fda292e8a79cd28abab0601a"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e858fbca6078746b3ee590387fa14567bfe949fedc05667956df3d9f795481ef"
+hash = "67a4107cb72ca2a8ab7b68448142c383c914d118830b1d334a46c20837c14028"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "9ea670604ad1e591b39d327c77920dd0fffbe8456f6d05660aaeca7ff4af4746"
+hash = "75320e01ff189b52ea19d97720a18fb085b7812a503fc5ca4753e1f3530c3aba"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1b6d3b3242c76ac3b3b81206f470d28f3b4d1d09af450ed358688ea5f8abde14"
+hash = "3aad926de03af1573fb934fb5d3ebd98cc41cf5663f97b0f06a4e6d4b0b9f6f2"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "48c4d6dee9b8f9f30cb1371c09196c666aee02608e5cb984a8aa7dbe627e73c6"
+hash = "545c3a984bd69f5c7663090a3b374f33efefddc6d51e01737264a34315cf0a4d"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipes.pw.toml"
-hash = "ad40a387b20282ae10b4633d5fed432e3b762bf22bb7c7c24c7b029d6191aa95"
+hash = "a114a5cbea6ffc980219bebb570f67f8b590dd31c7fbea1bcb1f962687949c1e"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "74d769b99382c6d6945d71ff59d610c2dc21aa8ba16f488c8f80ec33786d0dd6"
+hash = "fdd2f9ea64cf9453493708b3ae14d14794e2c38e9131f9954395224314e1e256"
 metafile = true
 
 [[files]]
@@ -833,8 +833,8 @@ file = "resourcepacks/Spack's Dark Mode 1.19.zip"
 hash = "96e71993441d987d8ed7d081bea956694bd6ae2e6f34992add950994394082b2"
 
 [[files]]
-file = "resourcepacks/Vanilla Normals Renewed.zip"
-hash = "85c6fdfe3d14189e2413237609dab80d0f3e60cc56ad329a38237dba46c43414"
+file = "resourcepacks/Vanilla Normals Renewed (2-19-23).zip"
+hash = "5466de55437d13955b89bf3416ec9b46de04fcad1719a2af6239aa1e0b4105c7"
 
 [[files]]
 file = "resourcepacks/avpbr.pw.toml"
@@ -864,7 +864,7 @@ hash = "85a1e1d9596fdf577c4405766792e1190ddf9dcb7ad79c89887c3910d1cc43a1"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "829f22ff7ec6a5a09d8d6353f91d79167018f2f71e2f144f188e19d4749b1a02"
+hash = "c99cd1ee656041db81255665ccbb0f2bb96cae113e7d2c07f8d8e8701b1ca984"
 metafile = true
 
 [[files]]
