@@ -1,13 +1,13 @@
 name = "Physics Mod"
-filename = "physics-mod-2.11.2-mc-1.19.3-fabric.jar"
+filename = "physics-mod-2.11.5-mc-1.19.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/dVS3D4bD/physics-mod-2.11.2-mc-1.19.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/2u7i1wR6/physics-mod-2.11.5-mc-1.19.3-fabric.jar"
 hash-format = "sha1"
-hash = "02dc021248d4cd41beaace4b9ecc6c4ba2e49792"
+hash = "4cb405b88a6f6c08e4b9df8c06a820e2319ed735"
 
 [update]
 [update.modrinth]
 mod-id = "Xy8aRQKS"
-version = "dVS3D4bD"
+version = "2u7i1wR6"

@@ -153,10 +153,6 @@ file = "config/yosbr/config/tweakeroo.json"
 hash = "b05bf65d92ae597ef9f7a3692e65454111a9271c46a015b37bc333d0d9875843"
 
 [[files]]
-file = "config/yosbr/config/vivecraft-config.properties"
-hash = "bd9dd364619eab6c12da68176f1af9338be29ffdf04d53cb937232b5e120179a"
-
-[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "1af71a17490cd586d44e5d799b85ad218ce1579cf39ad9797ea4c327108d3ebd"
 
@@ -265,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c0a2cd69f456aa82a478794dc857ecadc3f1fd5a81fe8e24d8ffc7c4a0ed649c"
+hash = "8a9e9131ccb6a52f4180e805b59839b437293b10db3566da811fff08900d465d"
 metafile = true
 
 [[files]]
@@ -280,12 +276,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7941bb32fbbaba49d4126d2c2f70de0fab748c34d7b76310b084e909932dad93"
+hash = "f5cc668e2b8d7d792b120789e92119228d55e9468fbb2c5960c02409f545ab23"
 metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "8e1af461f563e3bfdff457a49b52e166f26ecef70be5516dc49b467a7f2e2fe0"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f0ebc9b4cb6ecc5f20331f8362bb648c5a1bf75ac15588ecaf079109e97e8aa8"
 metafile = true
 
 [[files]]
@@ -310,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "188b1f6587b9bcdc3788ae404ad891e5c552b64d3397257cdeab43dd611232df"
+hash = "4830a70a299bd27667a9cc64637364a65eb876175153a076c8da9398e9be89ff"
 metafile = true
 
 [[files]]
@@ -405,7 +406,12 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "990f14703c547528f630861e1ea699a1e4aeea4e40581635baa684160b9ad22a"
+hash = "ab54e36d690bb29c4eea744809a7f12f8fac20ca8e5a930671125f66c69cc7db"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 metafile = true
 
 [[files]]
@@ -430,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3aad926de03af1573fb934fb5d3ebd98cc41cf5663f97b0f06a4e6d4b0b9f6f2"
+hash = "b9e92b5e0baed5a916779ef0016172d2d42ea310d9742744a8c920ecee4d7b9a"
 metafile = true
 
 [[files]]
@@ -465,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "037642da6cd5470a74db68df2f1d445ac1eeca74ee5930fcd2e6cb7da3459a9a"
+hash = "a9446c4a0ddeb25dd57bf0054d66b40e310acfbd7d21aef706c20ca692ea1f5d"
 metafile = true
 
 [[files]]
@@ -570,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
+hash = "6682a581b77e820ea340d3279b7a49f5d311d3fa0b08b53628c9bf56a7c668ac"
 metafile = true
 
 [[files]]
@@ -640,7 +646,12 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "8ec9b354b169f86417c1eac34dd2ae891d2facf7ffe451a984fb7d6beeaad903"
+hash = "e974179f8bea96187118d07ae15cf1de70d46357b48863f6516de6063b0a1eff"
+metafile = true
+
+[[files]]
+file = "mods/nicephore-fabric.pw.toml"
+hash = "b4ba543378c9bb3706d2730172ffc6421f1cbf2fa469307f43fa3da330df9a57"
 metafile = true
 
 [[files]]
@@ -675,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "545c3a984bd69f5c7663090a3b374f33efefddc6d51e01737264a34315cf0a4d"
+hash = "4b26e289987ea6eef86b9b0b885451e5a67d6dd986e5e016022fe8913354f8bf"
 metafile = true
 
 [[files]]
@@ -690,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
+hash = "946275e17b2c860d1efb56d268a63c53fa9100953ea7759c4f7c22c3385734c9"
 metafile = true
 
 [[files]]
@@ -754,11 +765,6 @@ hash = "da0d81fb8865755c58eccae520fafbef5bdcae6e5bc577e33e8798ba0c955369"
 metafile = true
 
 [[files]]
-file = "mods/squaremap.pw.toml"
-hash = "b8918cb1308e3012d7e654f3074c0657e8369d7aa396215ff1df073d16a17ec9"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -800,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "fdd2f9ea64cf9453493708b3ae14d14794e2c38e9131f9954395224314e1e256"
+hash = "f0ea618ef83e96b9e10b5a08e059ecb7362faafe8ea3dac44e6b981beacf1286"
 metafile = true
 
 [[files]]
@@ -855,8 +861,8 @@ file = "shaderpacks/Photon (2-8-23).zip"
 hash = "d49ce4e2e4cd5faa9e9f1bbb72d664f79a3016952396659a17e30739843718b2"
 
 [[files]]
-file = "shaderpacks/Photon Rework (2-14-23).zip"
-hash = "9a34193a6bf77e7212e09f003feacb3deef60c7930a47a087b2ec9dc7d8cf174"
+file = "shaderpacks/Photon Rework (3-5-23).zip"
+hash = "0035acd269289f9485fb85b5b23f0a01fa7b60f3579e85d1e44bb927cda94e73"
 
 [[files]]
 file = "shaderpacks/Spectrum (1-28-23).zip"
@@ -864,7 +870,7 @@ hash = "85a1e1d9596fdf577c4405766792e1190ddf9dcb7ad79c89887c3910d1cc43a1"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "c99cd1ee656041db81255665ccbb0f2bb96cae113e7d2c07f8d8e8701b1ca984"
+hash = "51e9ef8f55d2bee989ceb0bf1bb834becbbc8692e6077ecde518ae1baf1138fe"
 metafile = true
 
 [[files]]
