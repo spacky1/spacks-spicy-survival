@@ -1,6 +1,190 @@
 hash-format = "sha256"
 
 [[files]]
+file = "backgrounds/bg1.jpg"
+hash = "b2749ecabaf72c9b5fb22c0b4e93dcca5a81bdbfd4d0609fd6c219f1956ecfd7"
+
+[[files]]
+file = "backgrounds/bg10.jpg"
+hash = "d3c89b26c06ea036bd763e13e5ba26199ca5adbef8378d6656f36f95bf0d08b5"
+
+[[files]]
+file = "backgrounds/bg11.jpg"
+hash = "348c5b09ff7d22d53f6110765ed6e42268b620e88619d03bb003d1c83bca25f0"
+
+[[files]]
+file = "backgrounds/bg12.jpg"
+hash = "3b5f5fd8ab3f93f3565a193ebe2caf334bab7c239407844d1e318eea39170416"
+
+[[files]]
+file = "backgrounds/bg13.jpg"
+hash = "d7c49477b3b0025a1d12ee61a0393aa333e5a5e80239b8cae8b0b382fca50e6e"
+
+[[files]]
+file = "backgrounds/bg14.jpg"
+hash = "f5d26843a273034ae7823e9bea9fd171efa9b1ec0a0a30d5ded180abb715262e"
+
+[[files]]
+file = "backgrounds/bg15.jpg"
+hash = "357a62abf16348dde5ce6d7090ce5b8cc4c120b682dc063671a77db672cdb888"
+
+[[files]]
+file = "backgrounds/bg16.jpg"
+hash = "eba05c3f691aff790bac4b4e14f8b60f9aed68cffa8efb617024d0d35c5e0e9d"
+
+[[files]]
+file = "backgrounds/bg17.jpg"
+hash = "173645d6b5c1fe75fbd7c418869de3cacb72f6f13f3888d7c7aa3780dc88f083"
+
+[[files]]
+file = "backgrounds/bg18.jpg"
+hash = "8275040023dbd99b785699402ba53477a5cc676ceabf194346f8f45def7f42f4"
+
+[[files]]
+file = "backgrounds/bg19.jpg"
+hash = "00842b5ccb74ed95e270a1e19ab8071a65362a7c243c421964a89a6abc6c127e"
+
+[[files]]
+file = "backgrounds/bg2.jpg"
+hash = "96d3192adf2e6ed0934703334553a46d32d2acbfe544315c14e384ef50a9f191"
+
+[[files]]
+file = "backgrounds/bg20.jpg"
+hash = "e29e0fdf2bdf09082f42d9fa3960cd5954d9098bf694d488fb017e563d1fb0f1"
+
+[[files]]
+file = "backgrounds/bg21.jpg"
+hash = "ecf96aeaffcc99e656f6486fba6f70eede5a77f8c1344b22dbc6c331ae48e830"
+
+[[files]]
+file = "backgrounds/bg22.jpg"
+hash = "71e2bfc81353ece59f50c271e7a57a70a90723a2a4be48b00039ff5cde5dca10"
+
+[[files]]
+file = "backgrounds/bg23.jpg"
+hash = "84d06fe9a35ffda2729762ec4169c4c2dd74390a34542c0d148b439840ce0fbe"
+
+[[files]]
+file = "backgrounds/bg24.jpg"
+hash = "0711e8d349b490db3acbc541e70577060ffa13922b5fbb731af9c3bf5b09d395"
+
+[[files]]
+file = "backgrounds/bg25.jpg"
+hash = "390abec13f0c23ec65f54ec710f9beab5eb2ebc3736faf2078889b2f9e16f46b"
+
+[[files]]
+file = "backgrounds/bg26.jpg"
+hash = "558db0a20f480ee771088ba5f38cac25536cfbb99b10909eb9582e297acd84e6"
+
+[[files]]
+file = "backgrounds/bg27.jpg"
+hash = "31be6019d745228fb4c80d40bf1271e394990b648a389e30131165e5f03345f7"
+
+[[files]]
+file = "backgrounds/bg28.jpg"
+hash = "8389e8ca555be909150f6ea34511892d6a9d221cfd07320c81fb75c6c0fede5d"
+
+[[files]]
+file = "backgrounds/bg29.jpg"
+hash = "efb813f57d22b5efcc22074f969f2cc5a73e814e528f6aabce3bacee644a2cdd"
+
+[[files]]
+file = "backgrounds/bg3.jpg"
+hash = "c651f4ee651f28fc888be22379ffb17e0f4da4a37f37d8e9627c5bdb2530cc09"
+
+[[files]]
+file = "backgrounds/bg30.jpg"
+hash = "89e9cd721370199296dec1244bd13ee873690c8da20a6fc9c4b5aaa82c7707da"
+
+[[files]]
+file = "backgrounds/bg31.jpg"
+hash = "a58e356859dde8ff1abace0d342947b2bd167f05f7ed8ecd5b444d1943d5b1b0"
+
+[[files]]
+file = "backgrounds/bg32.jpg"
+hash = "5a9e9d330e56ece2cadef8ce2336cb0e8d7681f0bef28742f98e5f0b450e2977"
+
+[[files]]
+file = "backgrounds/bg33.jpg"
+hash = "62d5013b5a295c1cacdfb597759c254e3134c57661de5e0a2e97dd30c9841b7e"
+
+[[files]]
+file = "backgrounds/bg34.jpg"
+hash = "7165f0b9dbe9502ad493e227eda8ba9cd12e9cb3b63e61cb7821666f61aa356a"
+
+[[files]]
+file = "backgrounds/bg35.jpg"
+hash = "2d2e2392488ae4ec47493483f6df2666a595e25d227d9493fde7d795f93a0247"
+
+[[files]]
+file = "backgrounds/bg36.jpg"
+hash = "18268ef6cb1e2e2347f85779a4460c8e964d4e5444954fef622a614fd37d4472"
+
+[[files]]
+file = "backgrounds/bg37.jpg"
+hash = "1982cc6b9f13735b92047916688ae990370f6693b48408aef9c385c5ea940e57"
+
+[[files]]
+file = "backgrounds/bg38.jpg"
+hash = "fc28ed965c59282e1d7f27f2918603a272a250ee6223251cb45f48085af9df28"
+
+[[files]]
+file = "backgrounds/bg39.jpg"
+hash = "b195e166f2266cebb538a05c0704eaef1242a1db1c34b888c294c66e859b9adb"
+
+[[files]]
+file = "backgrounds/bg4.jpg"
+hash = "b7e1bbd82e65526fcd543e0b4226c70469d81e637cc1528e7aac2a5434eee45a"
+
+[[files]]
+file = "backgrounds/bg40.jpg"
+hash = "dea7df2195af535ec3c33d54d446f53bf0e03036273b944370c156f89fad509b"
+
+[[files]]
+file = "backgrounds/bg41.jpg"
+hash = "e9c3d2cb03f83402f4a859c41045e03df4de47bdc866cc47620589704511db30"
+
+[[files]]
+file = "backgrounds/bg42.jpg"
+hash = "7faf81064663db540642b4054d13652856b00e06dfe7e27938cd9634168548d2"
+
+[[files]]
+file = "backgrounds/bg43.jpg"
+hash = "b1b3ed7ec0831b8639f1b1092abe4922dd69ab37b3e3948dfe02ede6980adca3"
+
+[[files]]
+file = "backgrounds/bg44.jpg"
+hash = "a97bd87f005b3c86c79549cdb5dd5a92a6a166c35b12261b125f16b9ce66d611"
+
+[[files]]
+file = "backgrounds/bg45.jpg"
+hash = "f6c8d791414fff5547ed9b0f3a8b2a519d84f36a5311ce0481cde0b13517604a"
+
+[[files]]
+file = "backgrounds/bg5.jpg"
+hash = "f92cb11feca630607f23c013a9f4775033f03725762ab071e87da1731b537de1"
+
+[[files]]
+file = "backgrounds/bg6.jpg"
+hash = "af96abc3a630210eae0c3fa986d103f117c271ed6256118aac353341c8cdba45"
+
+[[files]]
+file = "backgrounds/bg7.jpg"
+hash = "e2af658823771e19ed323e38c8b8d1db061654b9c7527f62acba91531785589f"
+
+[[files]]
+file = "backgrounds/bg8.jpg"
+hash = "908e9532169fbf39c29e9a7bc96673e2840c83d9c4d171e4e32eb91b9f644b0b"
+
+[[files]]
+file = "backgrounds/bg9.jpg"
+hash = "90b6ee9e12673d36d02e409d50380129b3d07a575d75f93804eb01468b2faa24"
+
+[[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "81f6ed8b18a1ad3f075a19289b318afda047f0bd9c7365906733f06e7e4187f5"
+
+[[files]]
 file = "config/yosbr/config/clienttweaks-common.toml"
 hash = "31fdf62770937f556424c533ad6c4877af6ad24d03ee731e3ee898f892454d6b"
 
@@ -29,6 +213,10 @@ file = "config/yosbr/config/firstperson.json"
 hash = "fdcb8b0e5c3954accfdc6eb141fe45f21f392e9c4f02a9e9a410213730710623"
 
 [[files]]
+file = "config/yosbr/config/flywheel.json"
+hash = "085e0ea22bd592a73d7e400b3fed9dd3eb838f0d9ed3a85ecd106cfd5b60513c"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "1c182ca3acd1e969b26f4d448cd1220d9ac5de8fb912afe231c9aeee72daac15"
 
@@ -50,7 +238,7 @@ hash = "c62284a5197b99309d3fb7c454854710a05dfc24df102d59c899b9d5d57bfa9a"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "db11ea27dcfafa727ec9e8d2c3cfa70d56a26f81250796a08a874715ef01bfc4"
+hash = "bef63b95b5db6e5e52916a79353122ef56208e805cba81db6bcd4c964110e87d"
 
 [[files]]
 file = "config/yosbr/config/itemscroller.json"
@@ -73,16 +261,8 @@ file = "config/yosbr/config/ok_zoomer/config.toml"
 hash = "7ab85d4c3ddb70c4237783a39f2846fa0c8d8af011f25e8f7b4b29fc888d3b00"
 
 [[files]]
-file = "config/yosbr/config/physicsmod/physics_animations_client_config.json"
-hash = "db5b7f0157035177a648726f7380ece5062f6acfe41f3b113b991fb366945ffe"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_server_config.json"
-hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
-
-[[files]]
 file = "config/yosbr/config/pickupnotifier/pickupnotifier-client.toml"
-hash = "2fb7158a300d059e48ba328e8509246f35ea7fbe8a42d8d89c39f8942e121500"
+hash = "4fc08c7d024da3caa8e85397a9ab4b386cd1f0352b6c5bf09401a1bd0cf5f7c9"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
@@ -106,11 +286,15 @@ hash = "dad4e933c05184340c92d9a95cccfa35cb3d575a0e48633d86eaa364f35f7840"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/cts.groovy"
-hash = "7a9b9ae35dcae86d76e1151871d7c9c2be31d706010ddcd713cf448b35360f28"
+hash = "a50d3c7e3a4f2227bd6688846369ff513ff9172480d5938844f8bd5671b07f51"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "6b2cff3141aa5175a2b6b2b74cc0f4ad488081fdadda0652a82a531d59c1b48f"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "d7a2edada8295b6e8a444456c9a3a370056892410192ceb72cd8a52f1acf2236"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -122,7 +306,7 @@ hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "b05bf65d92ae597ef9f7a3692e65454111a9271c46a015b37bc333d0d9875843"
+hash = "29adb407290baab06fcfb5236bdcd221df79f1afa663b5cd92b54a9515b8b6f0"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
@@ -133,16 +317,12 @@ file = "config/yosbr/options.txt"
 hash = "433e57ac9f1da3f1d7ff7b8d8fe15cbfc5c58f5d859b4d0a8e9d29ccfa21c738"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "f1e52c8f45b07c9cc27f3b9c58f51c1cd88fe4c926f40d90d33dc2146c3bd910"
+
+[[files]]
 file = "config/yosbr/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt"
 hash = "22452436f2edaddd45e806fc41ba0abe6f8e2161afb2fe6aecb865e63b3fa4f1"
-
-[[files]]
-file = "config/yosbr/shaderpacks/ComplementaryReimagined_r2.3.zip.txt"
-hash = "aad45131ccdc5affc43c5939aa4fd2a401c83da237903c574c9cb52989b89531"
-
-[[files]]
-file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.7.2.zip.txt"
-hash = "5d33a5c648f6da888165f450357f33d513fd969675231d118817cc0fcba17c36"
 
 [[files]]
 file = "config/yosbr/shaderpacks/FastPBR_v1.1.zip.txt"
@@ -155,10 +335,6 @@ hash = "f1203eb1de70828761824a0c23aae17e388640fbb69065e8f4c1de2feda9d7ac"
 [[files]]
 file = "config/yosbr/shaderpacks/Nostalgia_v5.0.zip.txt"
 hash = "a35df1aa9e360a4184fa84874a9c947aa1d4eaa10ad067a98f6a4a6a3c5b4c87"
-
-[[files]]
-file = "config/yosbr/shaderpacks/Photon (7-27-23).zip.txt"
-hash = "ac6b826851d8c13a174424ed38c1fe147dc1cceb931bf13528559cf35a7554d5"
 
 [[files]]
 file = "config/yosbr/shaderpacks/SoftVoxelsLite_v2.0.zip.txt"
@@ -804,10 +980,6 @@ hash = "3a796426f272e3fc97fe72462a5f150e9eb349b4ddd691a5280c16735121c751"
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
 metafile = true
-
-[[files]]
-file = "shaderpacks/Photon (7-27-23).zip"
-hash = "bcbc321167b49771a59b2c44ec245deae7326f8f21ffb036d2c2391841dcfd6d"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
