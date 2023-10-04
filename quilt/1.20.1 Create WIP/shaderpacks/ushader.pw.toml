@@ -1,0 +1,13 @@
+name = "UShader"
+filename = "UShader_v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UDDa70lE/versions/NX0rRg27/UShader_v2.1.zip"
+hash-format = "sha1"
+hash = "a480aafe265c49c941c4aebe4faac1a1f035b93e"
+
+[update]
+[update.modrinth]
+mod-id = "UDDa70lE"
+version = "NX0rRg27"

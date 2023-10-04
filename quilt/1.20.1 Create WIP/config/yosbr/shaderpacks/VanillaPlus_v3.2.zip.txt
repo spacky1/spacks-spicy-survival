@@ -1,0 +1,7 @@
+#Wed Aug 30 16:56:27 PDT 2023
+resourcepackReflectionsEnabled=true
+ssaoEnabled=true
+cloudVolumeAlt=300
+customWaterNormals=true
+customWaterColor=true
+reflectionsEnabled=true

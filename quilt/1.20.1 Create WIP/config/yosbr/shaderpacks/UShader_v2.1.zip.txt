@@ -1,0 +1,4 @@
+#Wed Aug 30 16:56:06 PDT 2023
+resourcepackReflectionsEnabled=true
+pomEnabled=true
+motionblurToggle=false

@@ -1,0 +1,7 @@
+#Wed Aug 30 16:59:14 PDT 2023
+Rough_reflections=true
+Screen_Space_Reflections=true
+Sky_reflection=true
+Porosity=true
+Specular_Reflections=true
+POM=true

@@ -1,0 +1,6 @@
+#Wed Aug 30 16:54:52 PDT 2023
+resourcepackReflectionsEnabled=true
+pomEnabled=true
+motionblurToggle=false
+slopeNormalCalculation=true
+vertexAttributeFix=true
