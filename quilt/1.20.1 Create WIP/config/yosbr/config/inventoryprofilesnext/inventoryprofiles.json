@@ -14,6 +14,12 @@
         }
     },
     "AutoRefillSettings": {
-        "tool_damage_threshold": 1
+        "tool_damage_threshold": 1,
+        "visual_durability_notification": {
+            "value": false
+        },
+        "audio_durability_notification": {
+            "value": false
+        }
     }
 }

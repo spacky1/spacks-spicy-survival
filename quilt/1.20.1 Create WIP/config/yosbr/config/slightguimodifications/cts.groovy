@@ -159,17 +159,17 @@ mainMenu {
     }
 
     removeMinecraftLogo()
-    removeEditionBadge()
+    //removeEditionBadge()
     clearAllLabels()
-    // clearAllButtons()
+    //clearAllButtons()
 
     label {
         position {
-            x { it - 2 }
-            y = -9
+            x = 2
+            y { it - 10 }
         }
-        text = literal("v0.1.0")
-        align = "right"
+        text = literal("v0.1.1")
+        align = "left"
         color = 0xFFFFFF
         hoveredColor = 0xFFFF55
         shadow = true
