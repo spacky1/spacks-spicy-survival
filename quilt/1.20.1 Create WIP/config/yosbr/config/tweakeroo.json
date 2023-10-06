@@ -81,10 +81,10 @@
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
-      "keys": ""
+      "keys": "X"
     },
     "accurateBlockPlacementReverse": {
-      "keys": ""
+      "keys": "Z"
     },
     "breakingRestrictionModeColumn": {
       "keys": ""
@@ -132,10 +132,28 @@
       "keys": ""
     },
     "freeCameraPlayerInputs": {
-      "keys": ""
+      "keys": "F7",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
     },
     "freeCameraPlayerMovement": {
-      "keys": ""
+      "keys": "F8",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
     },
     "hotbarScroll": {
       "keys": ""
@@ -786,7 +804,16 @@
   },
   "TweakHotkeys": {
     "tweakAccurateBlockPlacement": {
-      "keys": ""
+      "keys": "HOME",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
     },
     "tweakAfterClicker": {
       "keys": ""
@@ -855,10 +882,28 @@
       "keys": ""
     },
     "tweakFastLeftClick": {
-      "keys": ""
+      "keys": "MINUS",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
     },
     "tweakFastRightClick": {
-      "keys": ""
+      "keys": "EQUAL",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
     },
     "tweakFillCloneLimit": {
       "keys": ""
@@ -867,7 +912,16 @@
       "keys": ""
     },
     "tweakFlexibleBlockPlacement": {
-      "keys": ""
+      "keys": "END",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
     },
     "tweakFreeCamera": {
       "keys": "F6",

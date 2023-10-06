@@ -258,7 +258,7 @@ hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "79141ec1d782d8a3a3c2cb68d576189ee86aea69aa0d8fb8930eab95b82e7b0b"
+hash = "a6346632564818ae102e9b2b1f54514a9ee0ed33132796ba491a3613b069e297"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -318,15 +318,15 @@ hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "29adb407290baab06fcfb5236bdcd221df79f1afa663b5cd92b54a9515b8b6f0"
+hash = "2a292fdf98e47313185981a999136034b050db9c9476cbc944c142374bd3bd8b"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "6c726ede84c4e9ccc2d92fad6b9d654a951f909f4f8b0be3ac4611c07a77803c"
+hash = "1b1500b58fc16fb81733b405d0da12c786ee2b1c61593d0e5d14bf7b90c3e2f4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "48b51ad719baf8b9c9c2df038af6c62476c7c78d223026df9c5d02cb0a6eab06"
+hash = "84aeec33a1e3b73d0f305e359d62f8c47a5a77350ab70e44c9e5aca91ed3fea6"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -496,11 +496,6 @@ hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
-file = "mods/cleancut.pw.toml"
-hash = "c668d8fb98ddd31f5cbdf6dcda2e8380ca4cc0e6977bcc392a4e97bfc13e1969"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "d850ebf55e4799b3dc85bbc5629ea162a7e164d6321d42032757a94c8a048792"
 metafile = true
@@ -513,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "6e622d19fe0290c839d6428fdfee9fdbf56a008e156d3bc05af36f71637ee7c5"
 metafile = true
 
 [[files]]
@@ -616,6 +616,11 @@ hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "e3137551d2a404841772a0f7e2ea734857d866aa6d5bb18ac51b2a714e2e5cb3"
+metafile = true
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
@@ -673,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
 metafile = true
 
 [[files]]
@@ -757,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/lilac.pw.toml"
-hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
+hash = "40da6c11ac0a856fb0fa5688bf7df6538bba3cb0c0258b6611ce56fb8a0f0f69"
 metafile = true
 
 [[files]]
@@ -808,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "d61897931a50b74bd177465988eb0209ac9c3270fd68888da37bb762c5d31cde"
 metafile = true
 
 [[files]]
@@ -961,6 +976,16 @@ hash = "b4391f3d422fcc91cfae59de84fcbc8e533cf8d22989b570e6962ed6aa7c4fb2"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b7aa80077a822823775ab923d90235a75483db88490fa4f815740ea7def834b0"
+metafile = true
+
+[[files]]
+file = "mods/swingthrough.pw.toml"
+hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
 metafile = true
@@ -998,6 +1023,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "f744814d465d9094c39994d3df9024e27377570a0b3efe16dca648d8aa51bb91"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
