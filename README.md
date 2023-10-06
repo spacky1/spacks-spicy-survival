@@ -26,3 +26,6 @@ https://github.com/spacky1/spacks-spicy-survival/releases/download/1.20.1C-1.0.0
 ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/spacky1/spacks-spicy-survival/main/quilt/1.19.3/pack.toml```
 - 1.20.1 Create
 ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar "https://raw.githubusercontent.com/spacky1/spacks-spicy-survival/main/quilt/1.20.1 Create WIP/pack.toml"```
+
+## Default Keybinds
+![image](img/keyboard-layout.png)
