@@ -1,8 +1,0 @@
-name = "Patrix 64x WoolFix"
-filename = "Patrix_64x_basic_WoolFix.zip"
-side = "client"
-
-[download]
-url = "https://download943.mediafire.com/d4r1clqakjegAfD62y9Ng8a00jvBorNPU7eEJvQfsCfgwMVYmrFYVh-H55xBzY7a9zcGn4SLFQXIEZYElohQcoe2VydmNtJW83OA8jLq-9P2OR_b5XoPiLYDweNLfPjVDlxq3Xi0ING0hacAtN1CYCJ8YIsJbLVD210IrPgx9w/zwmeedyfl56qmxt/Patrix_64x_basic_WoolFix.zip"
-hash-format = "sha1"
-hash = "3c4d27adae5c39f37a32b6b988c812600e02d216"

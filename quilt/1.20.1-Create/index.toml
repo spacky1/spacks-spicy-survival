@@ -1025,6 +1025,10 @@ file = "options.txt"
 hash = "48078e04f8e626557f81bb4932b508d2cdf40b8eba6000b72d6a85dbb4a1ca53"
 
 [[files]]
+file = "resourcepacks/Patrix_64x_basic_WoolFix.zip"
+hash = "3a5ae1b57b442eb9b4cf496de232fddadb1d9aa3f9dbc7a111ff09ef129f0734"
+
+[[files]]
 file = "resourcepacks/Spack's Dark Mode 1.20.zip"
 hash = "f4ce80af5eb571beef4c65faf6fefd7be6ef960246e5bdcd98dffe6489a7a449"
 
@@ -1050,11 +1054,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/patrix-32x.pw.toml"
 hash = "18c95b5d76eef9e9f7525ed7fd67f3b87c24667e6f6daef0d8a8db11e2777979"
-metafile = true
-
-[[files]]
-file = "resourcepacks/patrix-64x-woolfix.pw.toml"
-hash = "c5a7362cabbdc4c09a32c74d336a04a00d93db4ac074e283b1ceb54f675eca0d"
 metafile = true
 
 [[files]]
