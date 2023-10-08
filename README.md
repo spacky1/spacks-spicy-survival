@@ -9,7 +9,7 @@ https://multimc.org/#Download
 
 ## Installation
 1. Download and install the prerequisites.
-2. In MultiMC, make sure Java 17 is being used under "Settings" > "Java" > "Java Runtime". If you used the installer, the "Auto-detect" button should work.
+2. In MultiMC, make sure Java 17 is being used under "Settings" > "Java" > "Java Runtime". If you used an installer, the "Auto-detect" button should work.
 3. Click "Add Instance" in the top left corner.
 4. Select "Import from zip". Copy the link to the desired pack below and paste it into the input field.
 ### 1.19.3
