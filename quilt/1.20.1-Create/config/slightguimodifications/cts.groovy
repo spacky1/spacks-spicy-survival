@@ -37,9 +37,6 @@ mainMenu {
             texture = file("backgrounds/bg5.jpg")
         }
         image {
-            texture = file("backgrounds/bg6.jpg")
-        }
-        image {
             texture = file("backgrounds/bg7.jpg")
         }
         image {
@@ -168,7 +165,7 @@ mainMenu {
             x = 2
             y { it - 10 }
         }
-        text = literal("v0.1.1")
+        text = literal("SSS 1.20.1 Create")
         align = "left"
         color = 0xFFFFFF
         hoveredColor = 0xFFFF55

@@ -54,7 +54,7 @@ hash = "e29e0fdf2bdf09082f42d9fa3960cd5954d9098bf694d488fb017e563d1fb0f1"
 
 [[files]]
 file = "backgrounds/bg21.jpg"
-hash = "ecf96aeaffcc99e656f6486fba6f70eede5a77f8c1344b22dbc6c331ae48e830"
+hash = "075b5e59ed8ef89c1a24ea050d8aff146338be3019155d35afc5ef5149f9e7ff"
 
 [[files]]
 file = "backgrounds/bg22.jpg"
@@ -102,7 +102,7 @@ hash = "a58e356859dde8ff1abace0d342947b2bd167f05f7ed8ecd5b444d1943d5b1b0"
 
 [[files]]
 file = "backgrounds/bg32.jpg"
-hash = "5a9e9d330e56ece2cadef8ce2336cb0e8d7681f0bef28742f98e5f0b450e2977"
+hash = "6b6348879c09e88a42b1c37362235c061b8f69afe66e06f76cea04327c8c3e73"
 
 [[files]]
 file = "backgrounds/bg33.jpg"
@@ -165,12 +165,8 @@ file = "backgrounds/bg5.jpg"
 hash = "f92cb11feca630607f23c013a9f4775033f03725762ab071e87da1731b537de1"
 
 [[files]]
-file = "backgrounds/bg6.jpg"
-hash = "af96abc3a630210eae0c3fa986d103f117c271ed6256118aac353341c8cdba45"
-
-[[files]]
 file = "backgrounds/bg7.jpg"
-hash = "e2af658823771e19ed323e38c8b8d1db061654b9c7527f62acba91531785589f"
+hash = "d235e1ccb6d77c1a58e3d862656e31323fb1a986faf294651313fcfd93adf1c3"
 
 [[files]]
 file = "backgrounds/bg8.jpg"
@@ -178,187 +174,147 @@ hash = "908e9532169fbf39c29e9a7bc96673e2840c83d9c4d171e4e32eb91b9f644b0b"
 
 [[files]]
 file = "backgrounds/bg9.jpg"
-hash = "90b6ee9e12673d36d02e409d50380129b3d07a575d75f93804eb01468b2faa24"
+hash = "7b02c55b6e0ae27c3d984fd47d7e3eba2c2608ed0fcb06dc7fa0cb8895749330"
 
 [[files]]
-file = "config/yosbr/config/big_items_duh.hjson"
+file = "config/big_items_duh.hjson"
 hash = "ee01f82eab0d8b60c33f2b884b1762c64c1199837cd0de31ba5a53c16870fae4"
 
 [[files]]
-file = "config/yosbr/config/chatpatches.json"
+file = "config/chatpatches.json"
 hash = "81f6ed8b18a1ad3f075a19289b318afda047f0bd9c7365906733f06e7e4187f5"
 
 [[files]]
-file = "config/yosbr/config/chunksfadein.properties"
+file = "config/chunksfadein.properties"
 hash = "c886ff6b7df7ca7de1370e827ae25aab44c7aac026d8a94b598a0b7b30fb1383"
 
 [[files]]
-file = "config/yosbr/config/clienttweaks-common.toml"
+file = "config/clienttweaks-common.toml"
 hash = "31fdf62770937f556424c533ad6c4877af6ad24d03ee731e3ee898f892454d6b"
 
 [[files]]
-file = "config/yosbr/config/draggable_lists.json5"
+file = "config/draggable_lists.json5"
 hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
+file = "config/dynamicfps.toml"
 hash = "354f27ef002ee990f60704898979cfba7caca61e7c554a2ba1f4579af62d8017"
 
 [[files]]
-file = "config/yosbr/config/entity_texture_features.json"
+file = "config/entity_texture_features.json"
 hash = "da89139cb7c8a678cd2f1d1b44868a0d38987255166b7f0a8fa02d6c759be09e"
 
 [[files]]
-file = "config/yosbr/config/entityculling.json"
+file = "config/entityculling.json"
 hash = "12392096c4c90965752d23ebc73806d0bbb6ab2ad96a801b9ab10d42a3292d2a"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
+file = "config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
-file = "config/yosbr/config/firstperson.json"
+file = "config/firstperson.json"
 hash = "fdcb8b0e5c3954accfdc6eb141fe45f21f392e9c4f02a9e9a410213730710623"
 
 [[files]]
-file = "config/yosbr/config/flywheel.json"
+file = "config/flywheel.json"
 hash = "085e0ea22bd592a73d7e400b3fed9dd3eb838f0d9ed3a85ecd106cfd5b60513c"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
+file = "config/immediatelyfast.json"
 hash = "1c182ca3acd1e969b26f4d448cd1220d9ac5de8fb912afe231c9aeee72daac15"
 
 [[files]]
-file = "config/yosbr/config/inspecio.json"
+file = "config/inspecio.json"
 hash = "674bb36fef1a6d68c0132a89d57c3228ae8b489d0085047c0afdb6013d0d28be"
 
 [[files]]
-file = "config/yosbr/config/interactic.json5"
+file = "config/interactic.json5"
 hash = "d93dd8645dc0c5dfde2e78e2e904e572f1c1584d60d442712fe88c1b63212cfc"
 
 [[files]]
-file = "config/yosbr/config/inventoryhud.json"
+file = "config/inventoryhud.json"
 hash = "1d2c505644aa4d437ff6485b1d61d5fe1c3c8647c56c2526995a254554062561"
 
 [[files]]
-file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "e3c88726cf2059d6fe64171a99172c8754a4742b29cb9cc29c2574b9460352db"
 
 [[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "95371637b66434abdcf6d7f148baefbc132af0be54b026755a39b34073da212b"
+file = "config/iris.properties"
+hash = "56bee59fea34a9888ef5b9b0c1522fd71bf8a865a1daee563d5c9592e302c379"
 
 [[files]]
-file = "config/yosbr/config/itemscroller.json"
+file = "config/itemscroller.json"
 hash = "2455e2d6ea6b3a4d0dc2ff138f4630e46edf3ddd6d3d0209658e13992aa16878"
 
 [[files]]
-file = "config/yosbr/config/malilib.json"
+file = "config/malilib.json"
 hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
 
 [[files]]
-file = "config/yosbr/config/minihud.json"
+file = "config/minihud.json"
 hash = "a6346632564818ae102e9b2b1f54514a9ee0ed33132796ba491a3613b069e297"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
+file = "config/modernfix-mixins.properties"
 hash = "ab0c1421253b24b4b81a995a17a6be7400f21eac5239da37ddce676086832ffa"
 
 [[files]]
-file = "config/yosbr/config/ok_zoomer/config.toml"
+file = "config/ok_zoomer/config.toml"
 hash = "7ab85d4c3ddb70c4237783a39f2846fa0c8d8af011f25e8f7b4b29fc888d3b00"
 
 [[files]]
-file = "config/yosbr/config/pickupnotifier/pickupnotifier-client.toml"
+file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "4fc08c7d024da3caa8e85397a9ab4b386cd1f0352b6c5bf09401a1bd0cf5f7c9"
 
 [[files]]
-file = "config/yosbr/config/ping-wheel.json"
+file = "config/ping-wheel.json"
 hash = "58d675dfb3cbfe3c6b8d710eee7b41a4d185c5492ffe45b07f1e9aa8adeb1389"
 
 [[files]]
-file = "config/yosbr/config/presencefootsteps/userconfig.json"
+file = "config/presencefootsteps/userconfig.json"
 hash = "50220696cd4a2504bfc1f38ece41f337a2c34355ce34c8727443ca962873176a"
 
 [[files]]
-file = "config/yosbr/config/puzzle.json"
+file = "config/puzzle.json"
 hash = "a380d5b571dcb20dd6b93e1adf7624f5066b7c228c28d7929e76f7bad9307bb4"
 
 [[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
+file = "config/roughlyenoughitems/config.json5"
 hash = "34dd0e0875a14131de2fd61ca9eb4d294b46d6d94751b636536d07517b3a0463"
 
 [[files]]
-file = "config/yosbr/config/shouldersurfing.toml"
+file = "config/shouldersurfing.toml"
 hash = "4f835391aac3f0347be997eaa3a74e75f645ec35b56e6898b51d79045e08ed2e"
 
 [[files]]
-file = "config/yosbr/config/slightguimodifications/config.json5"
+file = "config/slightguimodifications/config.json5"
 hash = "dad4e933c05184340c92d9a95cccfa35cb3d575a0e48633d86eaa364f35f7840"
 
 [[files]]
-file = "config/yosbr/config/slightguimodifications/cts.groovy"
-hash = "a2366ebccc06a66907cad3e4ed3ad962dab9be4e38b7330255e38f6ff4118fc7"
+file = "config/slightguimodifications/cts.groovy"
+hash = "c5daf33f5e863571923a76ccca3c0e684a8e6ee74680b21901968136e9a65d2c"
 
 [[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
+file = "config/sodium-extra-options.json"
 hash = "6b2cff3141aa5175a2b6b2b74cc0f4ad488081fdadda0652a82a531d59c1b48f"
 
 [[files]]
-file = "config/yosbr/config/sodium-extra.properties"
+file = "config/sodium-extra.properties"
 hash = "d7a2edada8295b6e8a444456c9a3a370056892410192ceb72cd8a52f1acf2236"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "config/sodium-options.json"
 hash = "37f6ba93d9ac6d691fe98d43c13da9e04168f14bcdbb66531542e8477f9f6968"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
+file = "config/threadtweak.json"
 hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
 
 [[files]]
-file = "config/yosbr/config/tweakeroo.json"
+file = "config/tweakeroo.json"
 hash = "2a292fdf98e47313185981a999136034b050db9c9476cbc944c142374bd3bd8b"
-
-[[files]]
-file = "config/yosbr/options.amecsapi.txt"
-hash = "1b1500b58fc16fb81733b405d0da12c786ee2b1c61593d0e5d14bf7b90c3e2f4"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "84aeec33a1e3b73d0f305e359d62f8c47a5a77350ab70e44c9e5aca91ed3fea6"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "f1e52c8f45b07c9cc27f3b9c58f51c1cd88fe4c926f40d90d33dc2146c3bd910"
-
-[[files]]
-file = "config/yosbr/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt"
-hash = "22452436f2edaddd45e806fc41ba0abe6f8e2161afb2fe6aecb865e63b3fa4f1"
-
-[[files]]
-file = "config/yosbr/shaderpacks/FastPBR_v1.1.zip.txt"
-hash = "46bdc310a2043a9367657737e1c60cabad5675dab9ae00129359f21f11c9b44f"
-
-[[files]]
-file = "config/yosbr/shaderpacks/Kappa_v5.2.zip.txt"
-hash = "f1203eb1de70828761824a0c23aae17e388640fbb69065e8f4c1de2feda9d7ac"
-
-[[files]]
-file = "config/yosbr/shaderpacks/Nostalgia_v5.0.zip.txt"
-hash = "a35df1aa9e360a4184fa84874a9c947aa1d4eaa10ad067a98f6a4a6a3c5b4c87"
-
-[[files]]
-file = "config/yosbr/shaderpacks/SoftVoxelsLite_v2.0.zip.txt"
-hash = "03188317c7f25f3ac7787ec4335b6c73559d5268247609d9f482c0f1a3b10ad6"
-
-[[files]]
-file = "config/yosbr/shaderpacks/UShader_v2.1.zip.txt"
-hash = "5abb921a65802f55b38475cfff7a8fa963038321dd25add78353549b9c731a28"
-
-[[files]]
-file = "config/yosbr/shaderpacks/VanillaPlus_v3.2.zip.txt"
-hash = "dd21c7ab0f9d87a28f7e2e6e7ab87dc3ffbc79664adc4e7c5d3cb41a1034ee76"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -606,6 +562,11 @@ hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "eba939fcdf3f35b56072cc8c9476c35def2aa7bdecfde6a945980c92ffdf7c9b"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -627,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "41b6ced96a53594eff35395e452dd2e67107e8b529a3f3724e80556ca31e71f0"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
 metafile = true
 
 [[files]]
@@ -768,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/lilac.pw.toml"
 hash = "40da6c11ac0a856fb0fa5688bf7df6538bba3cb0c0258b6611ce56fb8a0f0f69"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "e9a8b6c5ae96cce3df5016984031d1db1be723360b2d477574dba71774539746"
 metafile = true
 
 [[files]]
@@ -986,6 +952,11 @@ hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
 
 [[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "80ab29cd4fa74c7d6f0cf3e8bd895888738a7c531658eeff2130d1e7b37c6bcf"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
 metafile = true
@@ -1036,14 +1007,22 @@ hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "458f6338388af54d424cc3ae4b5c805234210d5bbb661dfef2bbf1cb6d23c7a7"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
+file = "options.amecsapi.txt"
+hash = "1b1500b58fc16fb81733b405d0da12c786ee2b1c61593d0e5d14bf7b90c3e2f4"
+
+[[files]]
+file = "options.txt"
+hash = "48078e04f8e626557f81bb4932b508d2cdf40b8eba6000b72d6a85dbb4a1ca53"
 
 [[files]]
 file = "resourcepacks/Spack's Dark Mode 1.20.zip"
@@ -1054,8 +1033,70 @@ file = "resourcepacks/Vanilla Normals Renewed (7-26-23).zip"
 hash = "3a796426f272e3fc97fe72462a5f150e9eb349b4ddd691a5280c16735121c751"
 
 [[files]]
+file = "resourcepacks/conquest-of-create.pw.toml"
+hash = "34706bf4f8831663a26e568ffce33dd4d088129fb2da8323ada99f153f51453d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-pbr.pw.toml"
+hash = "e7685ae0a7248fd09f9e510246ce76072a72638dc905fd06d0edff5fc8808b86"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x.pw.toml"
+hash = "18c95b5d76eef9e9f7525ed7fd67f3b87c24667e6f6daef0d8a8db11e2777979"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-64x-woolfix.pw.toml"
+hash = "c5a7362cabbdc4c09a32c74d336a04a00d93db4ac074e283b1ceb54f675eca0d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tm-create-32x.pw.toml"
+hash = "7d69d6bd3825c2f63efdf2c83036323006ef0e2f3b673077f3850126d5235a2f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt"
+hash = "22452436f2edaddd45e806fc41ba0abe6f8e2161afb2fe6aecb865e63b3fa4f1"
+
+[[files]]
+file = "shaderpacks/FastPBR_v1.1.zip.txt"
+hash = "46bdc310a2043a9367657737e1c60cabad5675dab9ae00129359f21f11c9b44f"
+
+[[files]]
+file = "shaderpacks/Kappa_v5.2.zip.txt"
+hash = "f1203eb1de70828761824a0c23aae17e388640fbb69065e8f4c1de2feda9d7ac"
+
+[[files]]
+file = "shaderpacks/Nostalgia_v5.0.zip.txt"
+hash = "a35df1aa9e360a4184fa84874a9c947aa1d4eaa10ad067a98f6a4a6a3c5b4c87"
+
+[[files]]
+file = "shaderpacks/Photon (7-27-23).zip"
+hash = "c0f9a9ec0dbfbca954b389d8665b46eae00cc8f814c1be1e4f909986a25d5b45"
+
+[[files]]
+file = "shaderpacks/SoftVoxelsLite_v2.0.zip.txt"
+hash = "03188317c7f25f3ac7787ec4335b6c73559d5268247609d9f482c0f1a3b10ad6"
+
+[[files]]
+file = "shaderpacks/UShader_v2.1.zip.txt"
+hash = "5abb921a65802f55b38475cfff7a8fa963038321dd25add78353549b9c731a28"
+
+[[files]]
+file = "shaderpacks/VanillaPlus_v3.2.zip.txt"
+hash = "dd21c7ab0f9d87a28f7e2e6e7ab87dc3ffbc79664adc4e7c5d3cb41a1034ee76"
+
+[[files]]
+file = "shaderpacks/arc-shader.pw.toml"
+hash = "49a0ee2486d75902dc8d6fd0053f81bbeceecdaf7d7f963a433990bb31d535e7"
 metafile = true
 
 [[files]]
@@ -1086,6 +1127,21 @@ metafile = true
 [[files]]
 file = "shaderpacks/nostalgia-shader.pw.toml"
 hash = "5617b60662b2e1c8333e47c4f43a4185fe633c05e629c1ec06d1d539b22e654c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
+hash = "8ac2d1149c4f622902e258e2049e1c10e479c64a16112f44bcfb741b13ad25ea"
+metafile = true
+
+[[files]]
+file = "shaderpacks/simplicissimus.pw.toml"
+hash = "116618569cf2bcadd8e4b52bacb3d5ca0b123a92f7f5788e995bf4d1c7af5cb4"
 metafile = true
 
 [[files]]

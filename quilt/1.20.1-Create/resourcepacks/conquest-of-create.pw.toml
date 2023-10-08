@@ -1,0 +1,13 @@
+name = "Conquest of Create"
+filename = "CR-Create1.19v3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJjNoMV6/versions/E25ongi6/CR-Create1.19v3.zip"
+hash-format = "sha1"
+hash = "5176fe729f715d29473434fb0ec7d3e1ddd3d192"
+
+[update]
+[update.modrinth]
+mod-id = "RJjNoMV6"
+version = "E25ongi6"

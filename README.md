@@ -16,16 +16,10 @@ https://github.com/spacky1/spacks-spicy-survival/releases/download/1.0.0/SSS.1.1
 ```
 ### 1.20.1 Create
 ```
-https://github.com/spacky1/spacks-spicy-survival/releases/download/1.20.1C-1.0.0/SSS.1.20.1.Create.Edition.AU.zip
+https://github.com/spacky1/spacks-spicy-survival/releases/download/1.20.1C-1.0.0/SSS.1.20.1.Create.AU.zip
 ```
 3. Edit the name and group of the instance if desired, and click "OK".
 4. Done! Everything should come pre-configured, and the mods should download/update automatically upon launching the instance.
-
-### Pre-launch command in case things go fucky
-- 1.19.3
-```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/spacky1/spacks-spicy-survival/main/quilt/1.19.3/pack.toml```
-- 1.20.1 Create
-```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar "https://raw.githubusercontent.com/spacky1/spacks-spicy-survival/main/quilt/1.20.1 Create WIP/pack.toml"```
 
 ## Default Keybinds
 ![image](img/keyboard-layout.png)
