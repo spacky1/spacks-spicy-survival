@@ -217,10 +217,6 @@ file = "config/firstperson.json"
 hash = "fdcb8b0e5c3954accfdc6eb141fe45f21f392e9c4f02a9e9a410213730710623"
 
 [[files]]
-file = "config/flywheel.json"
-hash = "085e0ea22bd592a73d7e400b3fed9dd3eb838f0d9ed3a85ecd106cfd5b60513c"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "1c182ca3acd1e969b26f4d448cd1220d9ac5de8fb912afe231c9aeee72daac15"
 
@@ -679,6 +675,11 @@ metafile = true
 [[files]]
 file = "mods/invmove.pw.toml"
 hash = "653e58478a80fa179802706cf4aafd705820c2afe8664f0558d6c9453adfd74b"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "a0a18a41cb6b82aca7272949e9da866adce0d23ab52ed68b29b5ea2ef8587c4f"
 metafile = true
 
 [[files]]
