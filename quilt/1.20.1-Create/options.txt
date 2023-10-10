@@ -157,6 +157,8 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_ping-wheel.key.mark-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown
+key_key.hotbarcycle.cycle:key.keyboard.g
+key_key.hotbarcycle.single_cycle:key.keyboard.b
 key_key.optigui.inspect:key.keyboard.f12
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -177,8 +179,6 @@ key_Swap shoulder:key.keyboard.v
 key_Toggle perspective:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_key.cycleLeft:key.keyboard.g
-key_key.cycleRight:key.keyboard.b
 key_key.modmenu.open_menu:key.keyboard.u
 key_keybind.invmove.toggleMove:key.keyboard.right.bracket
 key_key.ok_zoomer.zoom:key.keyboard.c

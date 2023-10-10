@@ -684,6 +684,11 @@ hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
 
 [[files]]
+file = "mods/hotbarcycle.pw.toml"
+hash = "6ded0f1889def56159f69c5ab9898c4cb487f12b29b6e94f1c91a075a2c9a517"
+metafile = true
+
+[[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "a266409ee7850768e0883f4a9fbb64c0697cf63f393f5e35d03e23b772ab7452"
 metafile = true
@@ -999,11 +1004,6 @@ hash = "7508f220ae0a70011317cf33c23bb842a6e1e568294c7aa7679a52d9592fdea1"
 metafile = true
 
 [[files]]
-file = "mods/slot-cycler.pw.toml"
-hash = "854f4e7e7001ab450ef4975e4a41ac36f823acfab001b65a9227fba0af076e34"
-metafile = true
-
-[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
 metafile = true
@@ -1139,7 +1139,7 @@ hash = "1b1500b58fc16fb81733b405d0da12c786ee2b1c61593d0e5d14bf7b90c3e2f4"
 
 [[files]]
 file = "options.txt"
-hash = "91cf062b9ffeb053c8c70ef44964cb8541a1ffefb8f72a9636e4af87e24359e0"
+hash = "45a8c7ba078965d441f47d2912abb267cbe37b846093f0a233693d90758167a8"
 
 [[files]]
 file = "resourcepacks/Patrix_64x_basic_WoolFix.zip"
