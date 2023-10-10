@@ -14,7 +14,8 @@
     "block_break": true,
     "block_breaking": true,
     "other": {
-      "minecraft:rain": false
+      "minecraft:rain": false,
+      "minecraft:white_ash": false
     }
   },
   "detail_settings": {

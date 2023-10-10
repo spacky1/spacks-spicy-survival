@@ -28,7 +28,7 @@
 				"modifier": 0
 			},
 			"focusSearchFieldKeybind": {
-				"keyCode": "key.keyboard.unknown",
+				"keyCode": "key.keyboard.t",
 				"modifier": 0
 			},
 			"copyRecipeIdentifierKeybind": {
