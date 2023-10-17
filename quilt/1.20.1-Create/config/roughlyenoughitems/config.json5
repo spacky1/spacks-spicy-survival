@@ -5,7 +5,7 @@
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
-		"favoritesEnabled": false,
+		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "key.keyboard.r",
@@ -29,15 +29,15 @@
 			},
 			"focusSearchFieldKeybind": {
 				"keyCode": "key.keyboard.t",
-				"modifier": 0
+				"modifier": 2
 			},
 			"copyRecipeIdentifierKeybind": {
 				"keyCode": "key.mouse.middle",
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
+				"keyCode": "key.keyboard.a",
+				"modifier": 2
 			},
 			"exportImageKeybind": {
 				"keyCode": "key.keyboard.f8",

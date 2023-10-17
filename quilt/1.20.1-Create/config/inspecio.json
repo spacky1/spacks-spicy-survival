@@ -39,8 +39,8 @@
     "show_player_icon": false
   },
   "food": {
-    "hunger": true,
-    "saturation": "merged"
+    "hunger": false,
+    "saturation": "disabled"
   },
   "painting": true,
   "containers": {

@@ -1,6 +1,0 @@
-#Wed Aug 30 16:56:55 PDT 2023
-pomEnabled=true
-motionblurToggle=false
-slopeNormalCalculation=true
-RoughReflections=true
-vertexAttributeFix=true
