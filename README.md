@@ -2,7 +2,7 @@
 
 ## Prerequisites
 ### Java 17
-https://adoptium.net/temurin/releases/?package=jre
+https://adoptium.net/temurin/releases/?package=jre&version=17
 
 ### MultiMC
 https://multimc.org/#Download
