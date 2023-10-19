@@ -1,8 +1,0 @@
-name = "TM-Create 32x"
-filename = "TM-Create_32x.zip"
-side = "client"
-
-[download]
-url = "https://drive.google.com/uc?export=download&id=1Q7vzBSFZRHrhZ-ja6EYeNrbY71JS-Ooq"
-hash-format = "sha1"
-hash = "3f03531e07596cb9f1e733457d26cd44633239b2"

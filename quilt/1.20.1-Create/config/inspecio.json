@@ -64,7 +64,7 @@
     }
   },
   "effects": {
-    "food": false,
+    "food": true,
     "hidden_motion": true,
     "hidden_effect_mode": "enchantment",
     "beacon": true,

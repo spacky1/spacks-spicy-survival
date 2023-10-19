@@ -28,7 +28,7 @@
 				"modifier": 0
 			},
 			"focusSearchFieldKeybind": {
-				"keyCode": "key.keyboard.t",
+				"keyCode": "key.keyboard.left.alt",
 				"modifier": 2
 			},
 			"copyRecipeIdentifierKeybind": {
