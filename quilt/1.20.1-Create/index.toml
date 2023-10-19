@@ -941,11 +941,6 @@ hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "c5d5b857fa70cb5deed260054b9723dc8069635880061d5ba328e1eb684604bf"
-metafile = true
-
-[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "f773ff7038baf7044f34d7512aaad5d38c4552e10c69e432429887f4daa4f00d"
 metafile = true
