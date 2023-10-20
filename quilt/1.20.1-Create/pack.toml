@@ -1,13 +1,16 @@
 name = "SSS 1.20.1 Create"
 author = "spacky"
-version = "0.2.1"
+version = "0.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "23028d6f996b3d35d77ccccfcfce723f7672392612bca43044aba1c630e835ca"
+hash = "99e6491008538c49f0fd344f57b25b24310b6aa709b8034aa1c58d1a96f00299"
 
 [versions]
 minecraft = "1.20.1"
 quilt = "0.21.0"
+
+[options]
+datapack-folder = "global_packs/required_data"
