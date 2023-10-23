@@ -182,7 +182,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/bcc.json"
-hash = "3e96b8859e5a462f941209d949defe8e3a2d473c628a77efc1589e409b75d3c5"
+hash = "7fbd6836b00343cdba08a0ca86ec157cfe72dfa4132636671e10a8f9059a6a86"
 
 [[files]]
 file = "config/big_items_duh.hjson"
@@ -198,7 +198,7 @@ hash = "831832867c8dd6732290f368e3267f89ac95c28d19800209e29d653f8b97b368"
 
 [[files]]
 file = "config/clean_tooltips-client.toml"
-hash = "17cbfbd378656bf8eefab06d5fac81b76d01b528569aab322020bc940f113175"
+hash = "65953b973eef41c7114b6f3ec825dcc4f86aedb64aa4cc934a77b5e1f4d82307"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
@@ -338,7 +338,7 @@ hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "c3ced0e1b66031cb9c223cc6fdfd23ea8e8e3dfd6656686a2e5ec24792ba01a4"
+hash = "996f8548eff49cb533b1698a19b1b6221556a44270c6acb497b1688b955693c4"
 
 [[files]]
 file = "config/shouldersurfing.toml"
@@ -377,8 +377,20 @@ file = "config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
+file = "global_packs/required_data/SSS 1.20.1 Create - Eldritch Mobs Tweaks/data/eldritch_mobs/tags/entity_types/blacklist.json"
+hash = "5563c7b40411705721703f497ce54655081a2e7433047b33c15ba957de8b04d9"
+
+[[files]]
+file = "global_packs/required_data/SSS 1.20.1 Create - Eldritch Mobs Tweaks/pack.mcmeta"
+hash = "42aa5e274e70884462d55b7a12ccca40d5063c491a99b2cf1c6aa1b6a19df1b8"
+
+[[files]]
+file = "global_packs/required_data/SSS 1.20.1 Create - Eldritch Mobs Tweaks/pack.png"
+hash = "97805f5d187132d8efc6bec1d186de55dcf9af34301fb1c2ca1afedfc901b94f"
+
+[[files]]
 file = "global_packs/required_data/SSS 1.20.1 Create - Trinkets Integration.zip"
-hash = "1ef96ddeadac8b3ed4bbe3ac2fdb57e88e2bb4d6fade79f489e29a755c0ea04c"
+hash = "c632164124962fa3a699c091d4a63dbc9a037db14aa7a6578524abca06bf2429"
 
 [[files]]
 file = "global_packs/required_data/create-immersive-aircrafts-data-pack.pw.toml"
@@ -557,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "be330200c6e0dc0fc1ad18919ecf555e87d0eb6d324f7d414023db389c54cff8"
+hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
 metafile = true
 
 [[files]]
@@ -866,6 +878,11 @@ hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-terralith-compat.pw.toml"
 hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
 metafile = true
@@ -907,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -1012,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "33c89073f71a972da05cfee8c8b00eec1549e406222b0abab659e38b42797820"
+hash = "e9ea88e342b40c752d426175a969ee350f52b61d7437e0a398558dd3cca57a98"
 metafile = true
 
 [[files]]
@@ -1191,6 +1208,11 @@ hash = "3ab607e144950809f9bb1a9087c4f65888c3bf133822bb8726d946025c2d4401"
 metafile = true
 
 [[files]]
+file = "mods/night-config-fixes.pw.toml"
+hash = "b465cebcc7607908021e40b83f860b5df8e7dda134e0a110f9e9158d2c1c6bc9"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -1253,6 +1275,11 @@ metafile = true
 [[files]]
 file = "mods/pling.pw.toml"
 hash = "03bfb205e8ea0867bc8dc26056fd62b4a7990c29a97e600aae57e321a079f1f5"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "0b2d993433625cde097b5fd9afef50db0d65a6ba7a33b1b4ed9ae52816b2b7da"
 metafile = true
 
 [[files]]
@@ -1402,7 +1429,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9714741fffea0cc85dbe3dc469b98a943569e94e7fc62d2d5c867ca3fa61bfc2"
+hash = "6abce1f6beba5e4e860aeac5dbadaf7e98b624f24458a4736b02df4ce350e939"
 metafile = true
 
 [[files]]
@@ -1412,7 +1439,7 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "80ab29cd4fa74c7d6f0cf3e8bd895888738a7c531658eeff2130d1e7b37c6bcf"
+hash = "1bcfedea8c71c58c75646e0afd6211a95df4b4d0e545c28585f6aa3647f7158c"
 metafile = true
 
 [[files]]
@@ -1676,12 +1703,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "1c66dab8ed5239ab02c6778fef2c72aea8bdf18f94408bd13a2b90aefefec9b2"
+hash = "96573f91dcd79b7583dcbf716c0aa9a84116e90ae67d24cb192a6275a48b23e2"
 metafile = true
 
 [[files]]
 file = "shaderpacks/shrimple.pw.toml"
-hash = "8ac2d1149c4f622902e258e2049e1c10e479c64a16112f44bcfb741b13ad25ea"
+hash = "49e6dfd941f8111e02f515b314516dfaddf70b9410429330e56ef69828d31394"
 metafile = true
 
 [[files]]

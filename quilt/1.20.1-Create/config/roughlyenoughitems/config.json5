@@ -28,7 +28,7 @@
 				"modifier": 0
 			},
 			"focusSearchFieldKeybind": {
-				"keyCode": "key.keyboard.left.alt",
+				"keyCode": "key.keyboard.f",
 				"modifier": 2
 			},
 			"copyRecipeIdentifierKeybind": {
@@ -49,7 +49,7 @@
 			}
 		},
 		// Declares whether REI is visible.
-		"overlayVisible": false,
+		"overlayVisible": true,
 		"cheatingStyle": "GRAB",
 		"motion": {
 			"favoritesAnimation": true
