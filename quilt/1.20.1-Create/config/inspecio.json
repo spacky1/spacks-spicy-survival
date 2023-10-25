@@ -51,7 +51,7 @@
       "loot_table": true
     },
     "shulker_box": {
-      "enabled": true,
+      "enabled": false,
       "compact": false,
       "loot_table": true,
       "color": true

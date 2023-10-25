@@ -1,0 +1,13 @@
+name = "Doggo Mod Overhauled"
+filename = "doggo-mod-overhauled-5.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ReOjbL4W/versions/EkNJzzCt/doggo-mod-overhauled-5.2.2.jar"
+hash-format = "sha1"
+hash = "b4fb1c96975e4d5fa66689c26d2ba43b9d120a74"
+
+[update]
+[update.modrinth]
+mod-id = "ReOjbL4W"
+version = "EkNJzzCt"
