@@ -182,7 +182,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/bcc.json"
-hash = "fc58187248c8ca4afa90b03da6c3dab15cffb4447d7aea11f0dcbd67531b0b54"
+hash = "65cb4b1e7bee31385c1c04de76618fd1ad02e46bfcd87340951c7de599592938"
 
 [[files]]
 file = "config/bettertridents-common.toml"
@@ -302,7 +302,7 @@ hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
 
 [[files]]
 file = "config/minihud.json"
-hash = "245f5dc0b393b48620db73ecf35975308bdeb38cc7ea5e0583dd0f0cff041d99"
+hash = "5d99ce10f55c7b112b41fabc3772dc9e28473796c658666e112f23d960acda74"
 
 [[files]]
 file = "config/mobplaques-client.toml"
@@ -461,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
 
 [[files]]
@@ -804,6 +809,11 @@ hash = "daeebe7f768050a5440c6facd2bb12a14372fa82e3b685df140cec9fec8c0fe5"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "232e1851d05f7c872ffe52ce93c6da589dac1e51d1fed389304c84f0cef73de4"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "2e84ccfb19ba6e255f7fb32366a7fb1921f84d364e146f1605b9f6016af5b0aa"
 metafile = true
@@ -840,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "9bdd24aca5f45e5179b9796da6731ba0b0cdbcdda5ae2b06f77d4e48b9a8839a"
+hash = "c2695799db199158409df1eac35b1f57458d445b3528cb6132e97eb56e514cbe"
 metafile = true
 
 [[files]]
@@ -1289,6 +1299,11 @@ hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "68e53bbbabf572e5bb4efa066a15dcc92ce86ebb75d2bb477a5d8e6c560c533a"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
@@ -1395,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
 
 [[files]]
@@ -1455,7 +1470,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "b44838cc4b4a15c5f10fbc843d302222652b463f972a05c687b4f879dd2a3172"
+hash = "f1e03ece85e67bc16de2f286c544f0c92a9cb1c2593d4eea650639f4b53fc4c1"
 metafile = true
 
 [[files]]
@@ -1565,7 +1580,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "41209fe012e1c2a5f6adfff3eec65b9c35f5abc6a4d52617d9d02734a0350855"
+hash = "833b827727a8e2cf57354276de94fb6f56eed835a04c1ca8bbaa6f1df27f7a28"
 metafile = true
 
 [[files]]
