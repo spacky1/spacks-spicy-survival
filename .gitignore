@@ -1,4 +1,4 @@
 *.mrpack
 **/fabric-api.pw.toml
-quilt/1.20.1-Create-WIP/*
+quilt/1.20.1-Create-Update-Checker/*
 quilt/1.18.2-Create/*

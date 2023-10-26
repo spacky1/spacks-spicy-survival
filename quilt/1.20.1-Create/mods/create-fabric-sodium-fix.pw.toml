@@ -1,6 +1,6 @@
 name = "Create Fabric Sodium Fix"
 filename = "create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ysHf2zCJ/versions/Z7Vvonpy/create-sodium-fix-0.5.1-d-build.5%2Bmc1.20.1.jar"

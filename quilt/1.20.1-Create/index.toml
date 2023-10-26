@@ -734,12 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "bedd1faa55fd23dfd50197b4d5efbae3745770663e97c41a651c47b74ed73bd0"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "51bcd20556c6a8b9e5f876c88915a5dff830b05ead2c53278aa3356ba5c04e24"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
