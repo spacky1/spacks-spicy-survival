@@ -182,7 +182,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/bcc.json"
-hash = "65cb4b1e7bee31385c1c04de76618fd1ad02e46bfcd87340951c7de599592938"
+hash = "c930c0687207db2c7c1396ca02194eaf3caa0d5d900dcb36529c3557d456643b"
 
 [[files]]
 file = "config/bettertridents-common.toml"
@@ -262,7 +262,7 @@ hash = "2f70df9d87842ccde9fc10e1bc775cfabef69afa57000b13bc1e7aee28db9933"
 
 [[files]]
 file = "config/idwtialsimmoedm.json"
-hash = "096de2b3e0b0ba6c351ddc781590e3751ed0f3efe1793cdc34706638acf0d04a"
+hash = "4d24e4943b8f4385ffb7343fb99e37ec7108aedec00cbd1c0a6862732a8ed699"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -432,6 +432,10 @@ metafile = true
 file = "global_packs/required_data/repurposed-structures-yungs-better-nether-fortress-compat.pw.toml"
 hash = "4c1c823aa7ba8dd5f0b3f79c4bcac2b14816a74cb3fec9473bcd40d2e4d59b78"
 metafile = true
+
+[[files]]
+file = "kubejs/client_scripts/rei_yeet.js"
+hash = "db422050414ae3421773bec7986bf2f9a59d67166a8eced051efd74e6310e7c1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1159,6 +1163,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "8562de954c3f955262c032b906133826b2f5c442d58ddc8d79cea420979f2d93"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
 metafile = true
@@ -1491,6 +1500,16 @@ metafile = true
 [[files]]
 file = "mods/restart-server.pw.toml"
 hash = "65660f3f2941f9a62273665ee083c7ef58c1da1e12054480635cf26b4b6108a2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "af8bd290a5c7d75986905bf1b433e238e14933539836ac7bc37be02b3dcd6613"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]
