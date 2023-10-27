@@ -21,6 +21,11 @@
         }
     },
     "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
         "scroll_to_chest": {
             "main": {
                 "keys": ""

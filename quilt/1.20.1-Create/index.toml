@@ -182,7 +182,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c930c0687207db2c7c1396ca02194eaf3caa0d5d900dcb36529c3557d456643b"
+hash = "c7567c5e40aef70ee547504deda441f8211bca324c002daccc92905961055cc5"
 
 [[files]]
 file = "config/bettertridents-common.toml"
@@ -207,6 +207,10 @@ hash = "65953b973eef41c7114b6f3ec825dcc4f86aedb64aa4cc934a77b5e1f4d82307"
 [[files]]
 file = "config/clienttweaks-common.toml"
 hash = "31fdf62770937f556424c533ad6c4877af6ad24d03ee731e3ee898f892454d6b"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "67e94fb4f15a4abce9b27d8129f0946ce0196ea30bb98489fd50a9bd5e4aa717"
 
 [[files]]
 file = "config/create_jetpack-client.toml"
@@ -282,7 +286,7 @@ hash = "026f818e5bed25a0546c91f5e1d6f405c663299a38fea512c8aa1fa4a9e6e9c9"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "780832486a277c9d6fc675a436fe08d3a5dede271b01461f30f2c8acc8beaa7b"
+hash = "56e9277224faa3e548713824e7b2a845d87a52c9dffdd292f6eb77dca95143de"
 
 [[files]]
 file = "config/iris.properties"
@@ -339,6 +343,10 @@ hash = "50220696cd4a2504bfc1f38ece41f337a2c34355ce34c8727443ca962873176a"
 [[files]]
 file = "config/puzzle.json"
 hash = "a380d5b571dcb20dd6b93e1adf7624f5066b7c228c28d7929e76f7bad9307bb4"
+
+[[files]]
+file = "config/realisticsleep.json"
+hash = "bb40d4388326e6397d36436850d6a7e9026395bceca7b1d4ebab23ec1a5e58f3"
 
 [[files]]
 file = "config/replaymod.json"
@@ -628,6 +636,11 @@ hash = "f9481e8665c366e04a32b6acbabd5feeb950aadafb256831dbb0f26b5affa257"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "787ec3dcce9e24a4e41e242c42b553926c607fa2cbabc9b5019e5653d7e249ac"
 metafile = true
@@ -849,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "c2695799db199158409df1eac35b1f57458d445b3528cb6132e97eb56e514cbe"
+hash = "9916903175abd5cbb0232340993177b402182ee325e2ae7521f83209355f3bc7"
 metafile = true
 
 [[files]]
@@ -935,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "3be8e2a0f6a01ef550f2154583b26b27a243e4f2a6697d8a433080ae05ff1e1b"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "f6dba75db42d003785e4f34dcd46951e4a144f0d6a49814d578cc5cd6b98d35a"
 metafile = true
 
 [[files]]
@@ -1039,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "ad07dfedd18ce32748e1843549a644972a5a7ab616468f735d369cf0b4c88693"
+hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
 
 [[files]]
@@ -1090,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "e3dc372fb749220ddb9a1e5dfda6d48cbe6a51340f9f8a6272c7f7f3f62522c4"
 metafile = true
 
 [[files]]
@@ -1159,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "8562de954c3f955262c032b906133826b2f5c442d58ddc8d79cea420979f2d93"
+hash = "e0211752910bc1719689fa49585776462935b4bb575900e01000b766b46132f6"
 metafile = true
 
 [[files]]
@@ -1200,11 +1223,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/lmd.pw.toml"
-hash = "ba3601db0cde83877beb8e4c53cdcb5168c7350724a2a568fcc957f6ad9223f2"
 metafile = true
 
 [[files]]
@@ -1424,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
+hash = "60d3f2cfa9e8ff56b3cb288181fdd4db53707a940d4b2f4d4e85f9ff4732c39a"
 metafile = true
 
 [[files]]
@@ -1484,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "09b657ad8871f1198a237c9f57674a3165113daaf8936efd21dbf36af43f0f53"
+hash = "b1b09b3ce0edec9b527cfbd679906547dc6365627714e2abf028298b46794a66"
 metafile = true
 
 [[files]]
