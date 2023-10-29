@@ -1044,11 +1044,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/furnish-furniture.pw.toml"
-hash = "763f3204d672c656c5c0dbc340cf1a340854dd19576218ac49c8528c38fcb79b"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
 metafile = true
