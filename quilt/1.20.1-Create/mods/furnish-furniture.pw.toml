@@ -1,0 +1,13 @@
+name = "Furnish"
+filename = "furnish-24-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5cWCtJmf/versions/itOFx5BC/furnish-24-quilt.jar"
+hash-format = "sha1"
+hash = "e7dec7cc436ad518f6ba0e92648ce44b89384237"
+
+[update]
+[update.modrinth]
+mod-id = "5cWCtJmf"
+version = "itOFx5BC"

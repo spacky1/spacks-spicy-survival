@@ -182,7 +182,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c7567c5e40aef70ee547504deda441f8211bca324c002daccc92905961055cc5"
+hash = "423cdf460e15f729137ddfbb0e061a827d58fc2a0c4da1c96da9abb19cc394a1"
 
 [[files]]
 file = "config/bettertridents-common.toml"
@@ -219,6 +219,10 @@ hash = "4c30aabe197fbae29ede025b8ebf65019ad7abab42030733ce15aa68fdd6074e"
 [[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "51c2f12a932d5d6a0301dfdf2f04bf7569845ae368716998248214edd6827bda"
+
+[[files]]
+file = "config/debugify.json"
+hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
@@ -297,6 +301,10 @@ file = "config/itemscroller.json"
 hash = "df9c80c52d8ab142b7847d8e12e6d8ec5bf27974e4dd385007ab8ac522068e46"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+
+[[files]]
 file = "config/litematica.json"
 hash = "0186b89fc19e5b7b36902eed03061ff03530a15c86de6090c98f488bdaf51f73"
 
@@ -318,7 +326,7 @@ hash = "0dbcb21702a88175e55db600a452ec85e7652f5851c6c3faec7194c0804f4446"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "7821cf90e9e92015876005d2c8a946876ef9000f02c2be6e9c89e7e2365014ec"
+hash = "c4cc72f511861d88c7047c75c9b6e4e58d1123182fa735b4c79242c5b7439602"
 
 [[files]]
 file = "config/no-shield-delay.toml"
@@ -592,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap-sign-markers.pw.toml"
-hash = "c5ea3bd1053131d5e6dcdd00bea5177dfb5e670fba41c5df91987182cd801291"
+hash = "6629d607e986cec66e2ca7440dbb3fde85ad80def8cc2c6793b6feade47ecc8f"
 metafile = true
 
 [[files]]
@@ -867,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "f0f3ce08baf9a4df2eea92d7ad5e399752672d52119cb5bf55632a6ab0843b6d"
+hash = "69011a0995a38192da0a4a102a4c669345a27410d86d3029bd1c81d23b7d9499"
 metafile = true
 
 [[files]]
@@ -1036,8 +1044,13 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/furnish-furniture.pw.toml"
+hash = "763f3204d672c656c5c0dbc340cf1a340854dd19576218ac49c8528c38fcb79b"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
+hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
 metafile = true
 
 [[files]]
@@ -1292,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d354dda98d65a789e411d116321bb50a7cbe6852b1f36fa77451068922fa50e7"
+hash = "36868c5bce91c29a02aba65827e48273588a5452177dbffa828e45fdcd6e3a0e"
 metafile = true
 
 [[files]]
@@ -1302,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "edbcee8c3edd7118334406c84d30591dab92e8ecb27e68538af1005eac6b4663"
+hash = "c6099c4eac8f470af8de8fa02d63973256885316748333cf8d1b1beb571a5630"
 metafile = true
 
 [[files]]
@@ -1382,7 +1395,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
+hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
 metafile = true
 
 [[files]]
@@ -1402,7 +1415,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
+hash = "fcebe357a647ee0342361b638c95247cbd4f8d764b9f96eff3ce3394977f344e"
 metafile = true
 
 [[files]]
@@ -1442,7 +1455,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "60d3f2cfa9e8ff56b3cb288181fdd4db53707a940d4b2f4d4e85f9ff4732c39a"
+hash = "e086f5b211e85f4806ce223c3fc8c08a55fcab33469efbbf42414cf59ad19cc9"
 metafile = true
 
 [[files]]
@@ -1463,11 +1476,6 @@ metafile = true
 [[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "386c3010c580a8663da78f643e43d539ddd8b779c48bc4a56591379b88dcb84b"
-metafile = true
-
-[[files]]
-file = "mods/reacharound.pw.toml"
-hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
@@ -1896,7 +1904,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "96573f91dcd79b7583dcbf716c0aa9a84116e90ae67d24cb192a6275a48b23e2"
+hash = "cbafd85956650e5273e178863d766c89e32b1d24bd19ae8bd38abc8ddd12e876"
 metafile = true
 
 [[files]]

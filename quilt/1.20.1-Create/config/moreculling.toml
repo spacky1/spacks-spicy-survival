@@ -1,6 +1,6 @@
 itemFrameLODRange = 48
 itemFrame3FaceCullingRange = 0.0
-leavesCullingMode = "DEPTH"
-leavesCullingAmount = 3
+leavesCullingMode = "CHECK"
+leavesCullingAmount = 2
 includeMangroveRoots = true
 entityModelCulling = true

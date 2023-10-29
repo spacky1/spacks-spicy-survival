@@ -1,12 +1,12 @@
 name = "SSS 1.20.1 Create"
 author = "spacky"
-version = "0.3.2"
+version = "0.3.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d35a666670d1444b16eb24ab1932d0a178a696a909b7a766259945a674d6abc4"
+hash = "798a19c7a6c9343607b0a3ab0295951f0b77a285de81c7289d9484865a6bf5d5"
 
 [versions]
 minecraft = "1.20.1"
