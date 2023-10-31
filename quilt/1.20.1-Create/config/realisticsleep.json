@@ -17,7 +17,7 @@
   "thunderTickSpeedMultiplier": 25.0,
   "iceAndSnowTickSpeedMultiplier": 25.0,
   "cropGrowthTickSpeedMultiplier": 25.0,
-  "precipitationTickSpeedMultiplier": 25.0,
+  "precipitationTickSpeedMultiplier": 1.0,
   "blockRandomTickSpeedMultiplier": 1.0,
   "fluidRandomTickSpeedMultiplier": 1.0,
   "cloudSpeedMultiplier": 50.0,
