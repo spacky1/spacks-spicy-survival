@@ -6,9 +6,6 @@
         "first_run": false
     },
     "GuiSettings": {
-        "show_continuous_crafting_checkbox": {
-            "value": false
-        },
         "continuous_crafting_saved_value": false
     },
     "AutoRefillSettings": {
@@ -32,6 +29,11 @@
             }
         },
         "scroll_to_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
             "main": {
                 "keys": ""
             }

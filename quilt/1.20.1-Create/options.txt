@@ -1,5 +1,5 @@
 version:3465
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Spack\u0027s Dark Mode 1.20.zip","file/Vanilla Normals Renewed (7-26-23).zip","high_contrast","lambdabettergrass/default","minecraft/highlight_extended","minecraft/supporteatinganimation","programmer_art","vanilla","$polymer-resources","Moonlight Mods Dynamic Assets","extended_drawers/alt","extended_drawers/dev","file/Create-LabPBR-v7.zip","railways/green_signals","railways/legacy_semaphore","supplementaries/darker_ropes","file/Create Immersive Aircrafts Datapack 1.19.2 - 1.2.zip","file/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip","grapplemod/original_textures","seasons/seasonal_lush_caves"]
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Spack\u0027s Dark Mode 1.20.zip","file/Vanilla Normals Renewed (7-26-23).zip","high_contrast","lambdabettergrass/default","minecraft/highlight_extended","minecraft/supporteatinganimation","programmer_art","vanilla","$polymer-resources","Moonlight Mods Dynamic Assets","extended_drawers/alt","extended_drawers/dev","file/Create-LabPBR-v7.zip","railways/green_signals","railways/legacy_semaphore","supplementaries/darker_ropes","file/Create Immersive Aircrafts Datapack 1.19.2 - 1.2.zip","file/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip","grapplemod/original_textures","seasons/seasonal_lush_caves","file/DefaultPBR.zip"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","lambdabettergrass/default","minecraft/supporteatinganimation","file/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Spack\u0027s Dark Mode 1.20.zip","Moonlight Mods Dynamic Assets","continuity/default","continuity/glass_pane_culling_fix"]
+resourcePacks:["vanilla","lambdabettergrass/default","minecraft/supporteatinganimation","file/DefaultPBR.zip","file/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Spack\u0027s Dark Mode 1.20.zip","Moonlight Mods Dynamic Assets","continuity/default","continuity/glass_pane_culling_fix"]
 incompatibleResourcePacks:["file/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip"]
 lastServer:
 lang:en_us
