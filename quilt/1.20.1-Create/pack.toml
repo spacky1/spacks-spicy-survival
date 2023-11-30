@@ -10,7 +10,7 @@ hash = "558bc9486118dd78afb08302f13f2dcc73ee132fcea0c58ef562c636dc5ee5dc"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.21.0"
+quilt = "0.22.0"
 
 [options]
 datapack-folder = "global_packs/required_data"
