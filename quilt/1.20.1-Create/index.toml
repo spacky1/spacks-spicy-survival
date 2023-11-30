@@ -405,6 +405,10 @@ file = "global_packs/required_data/SSS 1.20.1 Create - Trinkets Integration.zip"
 hash = "c632164124962fa3a699c091d4a63dbc9a037db14aa7a6578524abca06bf2429"
 
 [[files]]
+file = "global_packs/required_data/anti enderman grief v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "4aa58302dc22cd358eb66ae1e0faaddaaa6746eef5958687676b7a9450f14558"
+
+[[files]]
 file = "global_packs/required_data/create-immersive-aircrafts-data-pack.pw.toml"
 hash = "00ec986293480facbdce919a1fa7c0d93ddbd237a175ecdd5844b8202063de6e"
 metafile = true
