@@ -182,7 +182,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b318ef94c02e17ae631b77d3a7ae194ec0b09f72ea9211267d67887e222c6111"
+hash = "e9bb27edc42b7e2d7b0bffc3fb9a4edbae23bfd00112bbab163f2150ef714543"
 
 [[files]]
 file = "config/bettertridents-common.toml"
@@ -755,6 +755,11 @@ metafile = true
 [[files]]
 file = "mods/create-chunkloading.pw.toml"
 hash = "8e8ef2577f00e74f5c2f1f62ccae6f46975f80b4fa98b8bd107d7176b77c96bd"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "c6d835e6ce30fe874a0cd0086b1ed6f9242bccac05b43ff13b17d964ac54fe2c"
 metafile = true
 
 [[files]]
@@ -1654,7 +1659,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "80a7862683427e4b2a4adb256a75c0ac981a88cbf10f52125ad3a78055cfe0d8"
+hash = "ef08ee675d9a671a71b32056f2f52fd2f23d951041261c47a18adafc978b92c2"
 metafile = true
 
 [[files]]
@@ -1848,7 +1853,7 @@ hash = "1b1500b58fc16fb81733b405d0da12c786ee2b1c61593d0e5d14bf7b90c3e2f4"
 
 [[files]]
 file = "options.txt"
-hash = "c05fcfa5882c60ff1956a09eff67c64390da88a8ec39c647f63958fe7fb7a6a3"
+hash = "c5d3049d03c302c8647817a0f2fd3ff28ac743008e49ca3ba179a4ac2a2e8d40"
 
 [[files]]
 file = "resourcepacks/Spack's Dark Mode 1.20.zip"
@@ -1913,12 +1918,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b696ce8621eafa92a82a7564484d66bd2044509cc78ff211ab1ef1ecbf204e1d"
+hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "af116bbaa8091f7ccc249959c698009cd4d2cc0338bc6a8239196ad7d918bfa2"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
 metafile = true
 
 [[files]]
