@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "c6d835e6ce30fe874a0cd0086b1ed6f9242bccac05b43ff13b17d964ac54fe2c"
+hash = "522b331e43a48df9cd4c1a0418a6467503d2d2fe826ecd7a5073ecd10f72ef08"
 metafile = true
 
 [[files]]
