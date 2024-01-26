@@ -1,0 +1,13 @@
+name = "Practical Plushies: Mobs"
+filename = "practical_plushies_mobs-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaBRp5JT/versions/FLNvnlCG/practical_plushies_mobs-1.0.1.jar"
+hash-format = "sha1"
+hash = "d21d4b502f6d0033084366466b00dcd10fc60ed1"
+
+[update]
+[update.modrinth]
+mod-id = "TaBRp5JT"
+version = "FLNvnlCG"
