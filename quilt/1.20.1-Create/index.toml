@@ -760,11 +760,6 @@ hash = "29c2af63ad11f040c4afe58ae941db3b58b165cc88d747ee418829e1ca9cbf0e"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
-metafile = true
-
-[[files]]
 file = "mods/create-chunkloading.pw.toml"
 hash = "8e8ef2577f00e74f5c2f1f62ccae6f46975f80b4fa98b8bd107d7176b77c96bd"
 metafile = true
